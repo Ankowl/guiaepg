@@ -24,9 +24,17 @@
     <display-name lang="es">Canal TVN (Chile)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="ESPN DOS">
+    <display-name lang="es">ESPN DOS</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
   <channel id="NHK WORLD – JAPAN">
     <display-name lang="es">NHK WORLD – JAPAN</display-name>
     <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL">
+    <display-name lang="es">STUDIO UNIVERSAL</display-name>
+    <url>http://www.reportv.com.ar</url>
   </channel>
   <programme start="20210729233000 -0300" stop="20210730000000 -0300" channel="Arirang">
     <title lang="es">Premium Collection</title>
@@ -544,6 +552,66 @@
   <programme start="20210729214000 -0300" stop="20210730010000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Juegos olímpicos Tokio 2020 Prime</title>
   </programme>
+  <programme start="20210729000000 -0300" stop="20210729010000 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729010000 -0300" stop="20210729020000 -0300" channel="ESPN DOS">
+    <title lang="es">Fútbol picante</title>
+  </programme>
+  <programme start="20210729020000 -0300" stop="20210729040000 -0300" channel="ESPN DOS">
+    <title lang="es">MLS</title>
+  </programme>
+  <programme start="20210729040000 -0300" stop="20210729050000 -0300" channel="ESPN DOS">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210729050000 -0300" stop="20210729060000 -0300" channel="ESPN DOS">
+    <title lang="es">Fútbol picante</title>
+  </programme>
+  <programme start="20210729060000 -0300" stop="20210729070000 -0300" channel="ESPN DOS">
+    <title lang="es">Fútbol picante</title>
+  </programme>
+  <programme start="20210729070000 -0300" stop="20210729080000 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729080000 -0300" stop="20210729100000 -0300" channel="ESPN DOS">
+    <title lang="es">Florida Cup</title>
+  </programme>
+  <programme start="20210729100000 -0300" stop="20210729120000 -0300" channel="ESPN DOS">
+    <title lang="es">Florida Cup</title>
+  </programme>
+  <programme start="20210729120000 -0300" stop="20210729140000 -0300" channel="ESPN DOS">
+    <title lang="es">Fútbol picante</title>
+  </programme>
+  <programme start="20210729140000 -0300" stop="20210729150000 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729150000 -0300" stop="20210729160000 -0300" channel="ESPN DOS">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210729160000 -0300" stop="20210729170000 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729170000 -0300" stop="20210729180000 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729180000 -0300" stop="20210729182500 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729182500 -0300" stop="20210729213000 -0300" channel="ESPN DOS">
+    <title lang="es">Liga Mexicana de Béisbol</title>
+  </programme>
+  <programme start="20210729213000 -0300" stop="20210729220000 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729220000 -0300" stop="20210729221500 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210729221500 -0300" stop="20210729231500 -0300" channel="ESPN DOS">
+    <title lang="es">Fútbol picante</title>
+  </programme>
+  <programme start="20210729231500 -0300" stop="20210730001500 -0300" channel="ESPN DOS">
+    <title lang="es">SportsCenter</title>
+  </programme>
   <programme start="20210729233000 -0300" stop="20210730000000 -0300" channel="NHK WORLD – JAPAN">
     <title lang="es">Japanology Plus</title>
   </programme>
@@ -795,5 +863,44 @@
   </programme>
   <programme start="20210730233000 -0300" stop="20210731000000 -0300" channel="NHK WORLD – JAPAN">
     <title lang="es">Catch Japan!</title>
+  </programme>
+  <programme start="20210729010000 -0300" stop="20210729025500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Sin límites</title>
+  </programme>
+  <programme start="20210729025500 -0300" stop="20210729050000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">John Wick: Sin control</title>
+  </programme>
+  <programme start="20210729050000 -0300" stop="20210729080000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20210729080000 -0300" stop="20210729090000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Close Up with the Hollywood Reporter</title>
+  </programme>
+  <programme start="20210729090000 -0300" stop="20210729100000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Close Up with the Hollywood Reporter</title>
+  </programme>
+  <programme start="20210729100000 -0300" stop="20210729110000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Close Up with the Hollywood Reporter</title>
+  </programme>
+  <programme start="20210729110000 -0300" stop="20210729132000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Invisibles: la historia de las hermanas Brontë</title>
+  </programme>
+  <programme start="20210729132000 -0300" stop="20210729151000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">El director chiflado</title>
+  </programme>
+  <programme start="20210729151000 -0300" stop="20210729170500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">El profesor chiflado</title>
+  </programme>
+  <programme start="20210729170500 -0300" stop="20210729190000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">El profesor chiflado II: Los Klumps</title>
+  </programme>
+  <programme start="20210729190000 -0300" stop="20210729210500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Riesgo total</title>
+  </programme>
+  <programme start="20210729210500 -0300" stop="20210729232500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">Rápidos y furiosos 6</title>
+  </programme>
+  <programme start="20210729232500 -0300" stop="20210730012500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="es">John Wick: Sin control</title>
   </programme>
 </tv>
