@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Arirang">
+    <display-name lang="es">Arirang</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="Canal CNN Chile">
     <display-name lang="es">Canal CNN Chile</display-name>
     <url>http://www.gatotv.com</url>
@@ -20,6 +24,178 @@
     <display-name lang="es">Canal TVN (Chile)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="NHK WORLD – JAPAN">
+    <display-name lang="es">NHK WORLD – JAPAN</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20210729233000 -0300" stop="20210730000000 -0300" channel="Arirang">
+    <title lang="es">Premium Collection</title>
+  </programme>
+  <programme start="20210730000000 -0300" stop="20210730003000 -0300" channel="Arirang">
+    <title lang="es">Arirang News</title>
+  </programme>
+  <programme start="20210730003000 -0300" stop="20210730005000 -0300" channel="Arirang">
+    <title lang="es">Global Insight</title>
+  </programme>
+  <programme start="20210730005000 -0300" stop="20210730010000 -0300" channel="Arirang">
+    <title lang="es">1Day 1Film K-Cineflex</title>
+  </programme>
+  <programme start="20210730010000 -0300" stop="20210730013000 -0300" channel="Arirang">
+    <title lang="es">SmartBiz Accelerators</title>
+  </programme>
+  <programme start="20210730013000 -0300" stop="20210730020000 -0300" channel="Arirang">
+    <title lang="es">The Point</title>
+  </programme>
+  <programme start="20210730020000 -0300" stop="20210730025000 -0300" channel="Arirang">
+    <title lang="es">COVID-19 Pandemic</title>
+  </programme>
+  <programme start="20210730025000 -0300" stop="20210730030000 -0300" channel="Arirang">
+    <title lang="es">Biztech Korea</title>
+  </programme>
+  <programme start="20210730030000 -0300" stop="20210730033000 -0300" channel="Arirang">
+    <title lang="es">Premium Collection</title>
+  </programme>
+  <programme start="20210730033000 -0300" stop="20210730034000 -0300" channel="Arirang">
+    <title lang="es">1Day 1Film K-Cineflex</title>
+  </programme>
+  <programme start="20210730034000 -0300" stop="20210730040000 -0300" channel="Arirang">
+    <title lang="es">Korea Travelogue</title>
+  </programme>
+  <programme start="20210730040000 -0300" stop="20210730043000 -0300" channel="Arirang">
+    <title lang="es">The Point</title>
+  </programme>
+  <programme start="20210730043000 -0300" stop="20210730050000 -0300" channel="Arirang">
+    <title lang="es">SmartBiz Accelerators</title>
+  </programme>
+  <programme start="20210730050000 -0300" stop="20210730053000 -0300" channel="Arirang">
+    <title lang="es">Arirang News</title>
+  </programme>
+  <programme start="20210730053000 -0300" stop="20210730055000 -0300" channel="Arirang">
+    <title lang="es">Global Insight</title>
+  </programme>
+  <programme start="20210730055000 -0300" stop="20210730060000 -0300" channel="Arirang">
+    <title lang="es">Catchy Korea</title>
+  </programme>
+  <programme start="20210730060000 -0300" stop="20210730065000 -0300" channel="Arirang">
+    <title lang="es">COVID-19 Pandemic</title>
+  </programme>
+  <programme start="20210730065000 -0300" stop="20210730070000 -0300" channel="Arirang">
+    <title lang="es">SmartBiz Accelerators</title>
+  </programme>
+  <programme start="20210730070000 -0300" stop="20210730075000 -0300" channel="Arirang">
+    <title lang="es">Newscenter</title>
+  </programme>
+  <programme start="20210730075000 -0300" stop="20210730080000 -0300" channel="Arirang">
+    <title lang="es">Biztech Korea</title>
+  </programme>
+  <programme start="20210730080000 -0300" stop="20210730083000 -0300" channel="Arirang">
+    <title lang="es">Foreign Correspondents</title>
+  </programme>
+  <programme start="20210730083000 -0300" stop="20210730084000 -0300" channel="Arirang">
+    <title lang="es">1Day 1Film K-Cineflex</title>
+  </programme>
+  <programme start="20210730084000 -0300" stop="20210730090000 -0300" channel="Arirang">
+    <title lang="es">Korea Travelogue</title>
+  </programme>
+  <programme start="20210730090000 -0300" stop="20210730095000 -0300" channel="Arirang">
+    <title lang="es">COVID-19 Pandemic</title>
+  </programme>
+  <programme start="20210730095000 -0300" stop="20210730100000 -0300" channel="Arirang">
+    <title lang="es">K-BIZ</title>
+  </programme>
+  <programme start="20210730100000 -0300" stop="20210730103000 -0300" channel="Arirang">
+    <title lang="es">Arirang News</title>
+  </programme>
+  <programme start="20210730103000 -0300" stop="20210730110000 -0300" channel="Arirang">
+    <title lang="es">Premium Collection</title>
+  </programme>
+  <programme start="20210730110000 -0300" stop="20210730113000 -0300" channel="Arirang">
+    <title lang="es">SmartBiz Accelerators</title>
+  </programme>
+  <programme start="20210730113000 -0300" stop="20210730120000 -0300" channel="Arirang">
+    <title lang="es">Foreign Correspondents</title>
+  </programme>
+  <programme start="20210730120000 -0300" stop="20210730122000 -0300" channel="Arirang">
+    <title lang="es">Foreign Correspondents</title>
+  </programme>
+  <programme start="20210730122000 -0300" stop="20210730123000 -0300" channel="Arirang">
+    <title lang="es">SmartBiz Accelerators</title>
+  </programme>
+  <programme start="20210730123000 -0300" stop="20210730130000 -0300" channel="Arirang">
+    <title lang="es">Premium Collection</title>
+  </programme>
+  <programme start="20210730130000 -0300" stop="20210730142000 -0300" channel="Arirang">
+    <title lang="es">I’m Live</title>
+  </programme>
+  <programme start="20210730142000 -0300" stop="20210730143000 -0300" channel="Arirang">
+    <title lang="es">1Day 1Film K-Cineflex</title>
+  </programme>
+  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="Arirang">
+    <title lang="es">SmartBiz Accelerators</title>
+  </programme>
+  <programme start="20210730150000 -0300" stop="20210730155000 -0300" channel="Arirang">
+    <title lang="es">COVID-19 Pandemic</title>
+  </programme>
+  <programme start="20210730155000 -0300" stop="20210730162000 -0300" channel="Arirang">
+    <title lang="es">Catchy Korea</title>
+  </programme>
+  <programme start="20210730162000 -0300" stop="20210730163000 -0300" channel="Arirang">
+    <title lang="es">K-BIZ</title>
+  </programme>
+  <programme start="20210730163000 -0300" stop="20210730170000 -0300" channel="Arirang">
+    <title lang="es">Discover World</title>
+  </programme>
+  <programme start="20210730170000 -0300" stop="20210730180000 -0300" channel="Arirang">
+    <title lang="es">I’m Live</title>
+  </programme>
+  <programme start="20210730180000 -0300" stop="20210730182000 -0300" channel="Arirang">
+    <title lang="es">Arirang News</title>
+  </programme>
+  <programme start="20210730182000 -0300" stop="20210730183000 -0300" channel="Arirang">
+    <title lang="es">SmartBiz Accelerators</title>
+  </programme>
+  <programme start="20210730183000 -0300" stop="20210730190000 -0300" channel="Arirang">
+    <title lang="es">Foreign Correspondents</title>
+  </programme>
+  <programme start="20210730190000 -0300" stop="20210730192500 -0300" channel="Arirang">
+    <title lang="es">Arirang News</title>
+  </programme>
+  <programme start="20210730192500 -0300" stop="20210730200000 -0300" channel="Arirang">
+    <title lang="es">K-Tech Green Solutions</title>
+  </programme>
+  <programme start="20210730200000 -0300" stop="20210730202000 -0300" channel="Arirang">
+    <title lang="es">Global Insight</title>
+  </programme>
+  <programme start="20210730202000 -0300" stop="20210730203000 -0300" channel="Arirang">
+    <title lang="es">K-BIZ</title>
+  </programme>
+  <programme start="20210730203000 -0300" stop="20210730210000 -0300" channel="Arirang">
+    <title lang="es">Gangnam Insider’s Picks</title>
+  </programme>
+  <programme start="20210730210000 -0300" stop="20210730213000 -0300" channel="Arirang">
+    <title lang="es">Foreign Correspondents</title>
+  </programme>
+  <programme start="20210730213000 -0300" stop="20210730214000 -0300" channel="Arirang">
+    <title lang="es">1Day 1Film K-Cineflex</title>
+  </programme>
+  <programme start="20210730214000 -0300" stop="20210730220000 -0300" channel="Arirang">
+    <title lang="es">Korea Travelogue</title>
+  </programme>
+  <programme start="20210730220000 -0300" stop="20210730223000 -0300" channel="Arirang">
+    <title lang="es">Arirang News</title>
+  </programme>
+  <programme start="20210730223000 -0300" stop="20210730230000 -0300" channel="Arirang">
+    <title lang="es">K-Tech Green Solutions</title>
+  </programme>
+  <programme start="20210730230000 -0300" stop="20210730232000 -0300" channel="Arirang">
+    <title lang="es">Arirang Live</title>
+  </programme>
+  <programme start="20210730232000 -0300" stop="20210730233000 -0300" channel="Arirang">
+    <title lang="es">Biztech Korea</title>
+  </programme>
+  <programme start="20210730233000 -0300" stop="20210731000000 -0300" channel="Arirang">
+    <title lang="es">Gangnam Insider’s Picks</title>
+  </programme>
   <programme start="20210729003000 -0300" stop="20210729013000 -0300" channel="Canal CNN Chile">
     <title lang="es">Conexión Global Prime</title>
   </programme>
@@ -367,5 +543,257 @@
   </programme>
   <programme start="20210729214000 -0300" stop="20210730010000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Juegos olímpicos Tokio 2020 Prime</title>
+  </programme>
+  <programme start="20210729233000 -0300" stop="20210730000000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japanology Plus</title>
+  </programme>
+  <programme start="20210730000000 -0300" stop="20210730001500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730001500 -0300" stop="20210730003000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730003000 -0300" stop="20210730010000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Trails to Oishii Tokyo</title>
+  </programme>
+  <programme start="20210730010000 -0300" stop="20210730011500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730011500 -0300" stop="20210730013000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730013000 -0300" stop="20210730015500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Lunch ON!</title>
+  </programme>
+  <programme start="20210730015500 -0300" stop="20210730020000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Ukiyo-e Edo-Life</title>
+  </programme>
+  <programme start="20210730020000 -0300" stop="20210730021500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730021500 -0300" stop="20210730023000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730023000 -0300" stop="20210730030000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Core Kyoto</title>
+  </programme>
+  <programme start="20210730030000 -0300" stop="20210730032300 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730032300 -0300" stop="20210730033000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Animation X Paralympic</title>
+  </programme>
+  <programme start="20210730033000 -0300" stop="20210730040000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Design Talks Plus</title>
+  </programme>
+  <programme start="20210730040000 -0300" stop="20210730041500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730041500 -0300" stop="20210730043000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730043000 -0300" stop="20210730050000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japanology Plus</title>
+  </programme>
+  <programme start="20210730050000 -0300" stop="20210730051500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730051500 -0300" stop="20210730052500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Dig More Japan!</title>
+  </programme>
+  <programme start="20210730052500 -0300" stop="20210730053000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japan from Above: Up Close</title>
+  </programme>
+  <programme start="20210730053000 -0300" stop="20210730055500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Lunch ON!</title>
+  </programme>
+  <programme start="20210730055500 -0300" stop="20210730060000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Ukiyo-e Edo-Life</title>
+  </programme>
+  <programme start="20210730060000 -0300" stop="20210730061500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730061500 -0300" stop="20210730063000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730063000 -0300" stop="20210730070000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Trails to Oishii Tokyo</title>
+  </programme>
+  <programme start="20210730070000 -0300" stop="20210730071500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730071500 -0300" stop="20210730073000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730073000 -0300" stop="20210730080000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Core Kyoto</title>
+  </programme>
+  <programme start="20210730080000 -0300" stop="20210730084000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsroom Tokyo</title>
+  </programme>
+  <programme start="20210730084000 -0300" stop="20210730085500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730085500 -0300" stop="20210730090000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Animation X Paralympic</title>
+  </programme>
+  <programme start="20210730090000 -0300" stop="20210730091500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730091500 -0300" stop="20210730092500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Dig More Japan!</title>
+  </programme>
+  <programme start="20210730092500 -0300" stop="20210730093000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Framing Everyday Moments</title>
+  </programme>
+  <programme start="20210730093000 -0300" stop="20210730100000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Design Talks Plus</title>
+  </programme>
+  <programme start="20210730100000 -0300" stop="20210730101500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730101500 -0300" stop="20210730103000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730103000 -0300" stop="20210730110000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japanology Plus</title>
+  </programme>
+  <programme start="20210730110000 -0300" stop="20210730111500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730111500 -0300" stop="20210730113000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730113000 -0300" stop="20210730120000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japan Railway Journal</title>
+  </programme>
+  <programme start="20210730120000 -0300" stop="20210730121500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730121500 -0300" stop="20210730123000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730123000 -0300" stop="20210730130000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Core Kyoto</title>
+  </programme>
+  <programme start="20210730130000 -0300" stop="20210730131500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730131500 -0300" stop="20210730133000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730133000 -0300" stop="20210730135500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Lunch ON!</title>
+  </programme>
+  <programme start="20210730135500 -0300" stop="20210730140000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Ukiyo-e Edo-Life</title>
+  </programme>
+  <programme start="20210730140000 -0300" stop="20210730141500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730141500 -0300" stop="20210730143000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Design Talks Plus</title>
+  </programme>
+  <programme start="20210730150000 -0300" stop="20210730154000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsroom Tokyo</title>
+  </programme>
+  <programme start="20210730154000 -0300" stop="20210730155500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730155500 -0300" stop="20210730160000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Animation X Paralympic</title>
+  </programme>
+  <programme start="20210730160000 -0300" stop="20210730161500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japan’s Top Inventions</title>
+  </programme>
+  <programme start="20210730161500 -0300" stop="20210730163000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Deeper Look from New York</title>
+  </programme>
+  <programme start="20210730163000 -0300" stop="20210730170000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japanology Plus</title>
+  </programme>
+  <programme start="20210730170000 -0300" stop="20210730171500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730171500 -0300" stop="20210730173000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Direct Talk</title>
+  </programme>
+  <programme start="20210730173000 -0300" stop="20210730180000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japan Railway Journal</title>
+  </programme>
+  <programme start="20210730180000 -0300" stop="20210730181500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730181500 -0300" stop="20210730183000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730183000 -0300" stop="20210730190000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Core Kyoto</title>
+  </programme>
+  <programme start="20210730190000 -0300" stop="20210730191500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730191500 -0300" stop="20210730193000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730193000 -0300" stop="20210730200000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Design Talks Plus</title>
+  </programme>
+  <programme start="20210730200000 -0300" stop="20210730201500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730201500 -0300" stop="20210730202000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Animation X Paralympic</title>
+  </programme>
+  <programme start="20210730202000 -0300" stop="20210730202500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Fukushima Time-Lapse</title>
+  </programme>
+  <programme start="20210730202500 -0300" stop="20210730203000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Japan from Above: Up Close</title>
+  </programme>
+  <programme start="20210730203000 -0300" stop="20210730205500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Lunch ON!</title>
+  </programme>
+  <programme start="20210730205500 -0300" stop="20210730210000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Ukiyo-e Edo-Life</title>
+  </programme>
+  <programme start="20210730210000 -0300" stop="20210730211500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730211500 -0300" stop="20210730213000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730213000 -0300" stop="20210730220000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Asia Insight</title>
+  </programme>
+  <programme start="20210730220000 -0300" stop="20210730221500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730221500 -0300" stop="20210730223000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730223000 -0300" stop="20210730224000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Culture Crossroads</title>
+  </programme>
+  <programme start="20210730224000 -0300" stop="20210730224500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Selfie Japan!</title>
+  </programme>
+  <programme start="20210730224500 -0300" stop="20210730225500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">No Art, No Life Plus</title>
+  </programme>
+  <programme start="20210730225500 -0300" stop="20210730230000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Dining with the Chef</title>
+  </programme>
+  <programme start="20210730230000 -0300" stop="20210730231500 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">NHK Newsline</title>
+  </programme>
+  <programme start="20210730231500 -0300" stop="20210730233000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Newsline in Depth</title>
+  </programme>
+  <programme start="20210730233000 -0300" stop="20210731000000 -0300" channel="NHK WORLD – JAPAN">
+    <title lang="es">Catch Japan!</title>
   </programme>
 </tv>
