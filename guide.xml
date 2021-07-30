@@ -20,10 +20,6 @@
     <display-name lang="es">Canal TVN (Chile)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Zee Mundo ">
-    <display-name lang="es">Canal Zee Mundo </display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <programme start="20210729003000 -0300" stop="20210729013000 -0300" channel="Canal CNN Chile">
     <title lang="es">Conexión Global Prime</title>
   </programme>
