@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal CNN Chile">
+    <display-name lang="es">Canal CNN Chile</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal La Red (Chile)">
+    <display-name lang="es">Canal La Red (Chile)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal RT en Español">
+    <display-name lang="es">Canal RT en Español</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Chile">
+    <display-name lang="es">Canal TV Chile</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TVN (Chile)">
+    <display-name lang="es">Canal TVN (Chile)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Zee Mundo ">
+    <display-name lang="es">Canal Zee Mundo </display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210729003000 -0300" stop="20210729013000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Conexión Global Prime</title>
+  </programme>
+  <programme start="20210729013000 -0300" stop="20210729020000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210729020000 -0300" stop="20210729023000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Conexión global PM</title>
+  </programme>
+  <programme start="20210729023000 -0300" stop="20210729033000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Última mirada</title>
+  </programme>
+  <programme start="20210729033000 -0300" stop="20210729040000 -0300" channel="Canal CNN Chile">
+    <title lang="es">ENT CNN</title>
+  </programme>
+  <programme start="20210729040000 -0300" stop="20210729043000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Agenda económica PM</title>
+  </programme>
+  <programme start="20210729043000 -0300" stop="20210729050000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210729050000 -0300" stop="20210729053000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Primera Página</title>
+  </programme>
+  <programme start="20210729053000 -0300" stop="20210729070000 -0300" channel="Canal CNN Chile">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210729070000 -0300" stop="20210729073000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Agenda económica AM</title>
+  </programme>
+  <programme start="20210729073000 -0300" stop="20210729080000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Conexión global AM</title>
+  </programme>
+  <programme start="20210729080000 -0300" stop="20210729120000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210729120000 -0300" stop="20210729143000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210729143000 -0300" stop="20210729144500 -0300" channel="Canal CNN Chile">
+    <title lang="es">Sabor CNN</title>
+  </programme>
+  <programme start="20210729144500 -0300" stop="20210729154500 -0300" channel="Canal CNN Chile">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210729154500 -0300" stop="20210729173000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210729173000 -0300" stop="20210729180000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Conexión global</title>
+  </programme>
+  <programme start="20210729180000 -0300" stop="20210729190000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210729190000 -0300" stop="20210729193000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Agenda económica PM</title>
+  </programme>
+  <programme start="20210729193000 -0300" stop="20210729213000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Noticias central CNN - CHV</title>
+  </programme>
+  <programme start="20210729213000 -0300" stop="20210729223000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210729223000 -0300" stop="20210729230000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Agenda económica PM</title>
+  </programme>
+  <programme start="20210729230000 -0300" stop="20210730000000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Última mirada</title>
+  </programme>
+  <programme start="20210729010000 -0300" stop="20210729020000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Grandes Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20210729020000 -0300" stop="20210729043000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Término de transmisiones</title>
+  </programme>
+  <programme start="20210729043000 -0300" stop="20210729100000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210729100000 -0300" stop="20210729140000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210729140000 -0300" stop="20210729143000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210729143000 -0300" stop="20210729183000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">La tarde de Hola Chile</title>
+  </programme>
+  <programme start="20210729183000 -0300" stop="20210729202500 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210729202500 -0300" stop="20210729210000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210729210000 -0300" stop="20210729233000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210729003000 -0300" stop="20210729010000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729010000 -0300" stop="20210729013000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729013000 -0300" stop="20210729020000 -0300" channel="Canal RT en Español">
+    <title lang="es">Las aguas mortales de Indonesia</title>
+  </programme>
+  <programme start="20210729020000 -0300" stop="20210729023000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729023000 -0300" stop="20210729030000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729030000 -0300" stop="20210729033000 -0300" channel="Canal RT en Español">
+    <title lang="es">Las aguas mortales de Indonesia</title>
+  </programme>
+  <programme start="20210729033000 -0300" stop="20210729040000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729040000 -0300" stop="20210729043000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729043000 -0300" stop="20210729050000 -0300" channel="Canal RT en Español">
+    <title lang="es">Las aguas mortales de Indonesia</title>
+  </programme>
+  <programme start="20210729050000 -0300" stop="20210729053000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729053000 -0300" stop="20210729060000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729060000 -0300" stop="20210729063000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729063000 -0300" stop="20210729070000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729070000 -0300" stop="20210729073000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729073000 -0300" stop="20210729080000 -0300" channel="Canal RT en Español">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20210729080000 -0300" stop="20210729083000 -0300" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20210729083000 -0300" stop="20210729090000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729090000 -0300" stop="20210729093000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729093000 -0300" stop="20210729100000 -0300" channel="Canal RT en Español">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20210729100000 -0300" stop="20210729103000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729103000 -0300" stop="20210729110000 -0300" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20210729110000 -0300" stop="20210729113000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729113000 -0300" stop="20210729120000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729120000 -0300" stop="20210729123000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729123000 -0300" stop="20210729130000 -0300" channel="Canal RT en Español">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20210729130000 -0300" stop="20210729133000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729133000 -0300" stop="20210729140000 -0300" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20210729140000 -0300" stop="20210729143000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729143000 -0300" stop="20210729150000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729150000 -0300" stop="20210729153000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729153000 -0300" stop="20210729160000 -0300" channel="Canal RT en Español">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20210729160000 -0300" stop="20210729163000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729163000 -0300" stop="20210729170000 -0300" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20210729170000 -0300" stop="20210729173000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729173000 -0300" stop="20210729180000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729180000 -0300" stop="20210729183000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729183000 -0300" stop="20210729190000 -0300" channel="Canal RT en Español">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20210729190000 -0300" stop="20210729193000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729193000 -0300" stop="20210729200000 -0300" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20210729200000 -0300" stop="20210729203000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729203000 -0300" stop="20210729210000 -0300" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20210729210000 -0300" stop="20210729213000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729213000 -0300" stop="20210729220000 -0300" channel="Canal RT en Español">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20210729220000 -0300" stop="20210729223000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20210729223000 -0300" stop="20210729230000 -0300" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20210729230000 -0300" stop="20210729233000 -0300" channel="Canal RT en Español">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20210729233000 -0300" stop="20210730000000 -0300" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20210729003000 -0300" stop="20210729013000 -0300" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20210729013000 -0300" stop="20210729023000 -0300" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210729023000 -0300" stop="20210729030000 -0300" channel="Canal TV Chile">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210729030000 -0300" stop="20210729040000 -0300" channel="Canal TV Chile">
+    <title lang="es">Chile Conectado</title>
+  </programme>
+  <programme start="20210729040000 -0300" stop="20210729043000 -0300" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210729043000 -0300" stop="20210729052500 -0300" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20210729052500 -0300" stop="20210729060000 -0300" channel="Canal TV Chile">
+    <title lang="es">¿Cuál es tu huella</title>
+  </programme>
+  <programme start="20210729060000 -0300" stop="20210729070000 -0300" channel="Canal TV Chile">
+    <title lang="es">Chile Conectado</title>
+  </programme>
+  <programme start="20210729070000 -0300" stop="20210729073000 -0300" channel="Canal TV Chile">
+    <title lang="es">Doremix</title>
+  </programme>
+  <programme start="20210729073000 -0300" stop="20210729090000 -0300" channel="Canal TV Chile">
+    <title lang="es">Zoom: Grandes momentos del deporte</title>
+  </programme>
+  <programme start="20210729090000 -0300" stop="20210729120000 -0300" channel="Canal TV Chile">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210729120000 -0300" stop="20210729143000 -0300" channel="Canal TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210729143000 -0300" stop="20210729153000 -0300" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20210729153000 -0300" stop="20210729160000 -0300" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20210729160000 -0300" stop="20210729163000 -0300" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20210729163000 -0300" stop="20210729180000 -0300" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210729180000 -0300" stop="20210729184500 -0300" channel="Canal TV Chile">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210729184500 -0300" stop="20210729191500 -0300" channel="Canal TV Chile">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210729191500 -0300" stop="20210729200000 -0300" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210729200000 -0300" stop="20210729214000 -0300" channel="Canal TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20210729214000 -0300" stop="20210729230000 -0300" channel="Canal TV Chile">
+    <title lang="es">Sin parche</title>
+  </programme>
+  <programme start="20210729230000 -0300" stop="20210729234500 -0300" channel="Canal TV Chile">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210729234500 -0300" stop="20210730003000 -0300" channel="Canal TV Chile">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210729004500 -0300" stop="20210729013000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210729013000 -0300" stop="20210729014500 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">TV Tiempo</title>
+  </programme>
+  <programme start="20210729014500 -0300" stop="20210729050000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210729050000 -0300" stop="20210729090000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Juegos olímpicos Tokio 2020 AM</title>
+  </programme>
+  <programme start="20210729090000 -0300" stop="20210729120000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210729120000 -0300" stop="20210729142500 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210729142500 -0300" stop="20210729153500 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210729153500 -0300" stop="20210729162000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210729162000 -0300" stop="20210729174500 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210729174500 -0300" stop="20210729181500 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Almas Heridas</title>
+  </programme>
+  <programme start="20210729181500 -0300" stop="20210729200000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Juegos olímpicos Tokio 2020 PM</title>
+  </programme>
+  <programme start="20210729200000 -0300" stop="20210729213500 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210729213500 -0300" stop="20210729214000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">TV Tiempo</title>
+  </programme>
+  <programme start="20210729214000 -0300" stop="20210730010000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Juegos olímpicos Tokio 2020 Prime</title>
+  </programme>
+</tv>
