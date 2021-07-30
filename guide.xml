@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Canal 24 Horas (Chile)">
     <display-name lang="es">Canal 24 Horas (Chile)</display-name>
@@ -56,1486 +56,1489 @@
     <display-name lang="es">Canal Universal TV (Panregional)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210730003000 -0300" stop="20210730010000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730003000 -0400" stop="20210730010000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730013000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730010000 -0400" stop="20210730013000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730020000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730023000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730020000 -0400" stop="20210730023000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730030000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730033000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730030000 -0400" stop="20210730033000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730033000 -0300" stop="20210730040000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730033000 -0400" stop="20210730040000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730040000 -0300" stop="20210730043000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730040000 -0400" stop="20210730043000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730043000 -0300" stop="20210730050000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730053000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730050000 -0400" stop="20210730053000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730053000 -0300" stop="20210730070000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730053000 -0400" stop="20210730070000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20210730070000 -0300" stop="20210730073000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730070000 -0400" stop="20210730073000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20210730073000 -0300" stop="20210730100000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730073000 -0400" stop="20210730100000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Mañana Informativa</title>
   </programme>
-  <programme start="20210730100000 -0300" stop="20210730101500 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730100000 -0400" stop="20210730101500 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Informe DW</title>
   </programme>
-  <programme start="20210730101500 -0300" stop="20210730113000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730101500 -0400" stop="20210730113000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730113000 -0300" stop="20210730120000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730113000 -0400" stop="20210730120000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Vía Pública</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730143000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730120000 -0400" stop="20210730143000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730144500 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730143000 -0400" stop="20210730144500 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Informe DW</title>
   </programme>
-  <programme start="20210730144500 -0300" stop="20210730153000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730144500 -0400" stop="20210730153000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730160000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730153000 -0400" stop="20210730160000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Más motor</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730184500 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730160000 -0400" stop="20210730184500 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Noticias 24</title>
   </programme>
-  <programme start="20210730184500 -0300" stop="20210730200000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730184500 -0400" stop="20210730200000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Sin Miedo 24 Horas Deportes</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730214500 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730200000 -0400" stop="20210730214500 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730214500 -0300" stop="20210730220000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730214500 -0400" stop="20210730220000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Cuadros</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210730223000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730220000 -0400" stop="20210730223000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Especialista Responde</title>
   </programme>
-  <programme start="20210730223000 -0300" stop="20210730224500 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730223000 -0400" stop="20210730224500 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20210730224500 -0300" stop="20210730230000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730224500 -0400" stop="20210730230000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Sonidos 24</title>
   </programme>
-  <programme start="20210730230000 -0300" stop="20210731000000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20210730230000 -0400" stop="20210731000000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730001200 -0300" stop="20210730010500 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730001200 -0400" stop="20210730010500 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210730010500 -0300" stop="20210730015800 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730010500 -0400" stop="20210730015800 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Mi gato endemoniado</title>
   </programme>
-  <programme start="20210730015800 -0300" stop="20210730022400 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730015800 -0400" stop="20210730022400 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210730022400 -0300" stop="20210730025100 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730022400 -0400" stop="20210730025100 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210730025100 -0300" stop="20210730034400 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730025100 -0400" stop="20210730034400 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Islas de Indonesia</title>
   </programme>
-  <programme start="20210730034400 -0300" stop="20210730043700 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730034400 -0400" stop="20210730043700 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Guardianes de Texas</title>
   </programme>
-  <programme start="20210730043700 -0300" stop="20210730053000 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730043700 -0400" stop="20210730053000 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Wild Frank en África</title>
   </programme>
-  <programme start="20210730053000 -0300" stop="20210730060000 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730053000 -0400" stop="20210730060000 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Misterios del mundo anim</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730062600 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730060000 -0400" stop="20210730062600 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Los secretos del reino animal</title>
   </programme>
-  <programme start="20210730062600 -0300" stop="20210730065200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730062600 -0400" stop="20210730065200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Los secretos del reino animal</title>
   </programme>
-  <programme start="20210730065200 -0300" stop="20210730074200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730065200 -0400" stop="20210730074200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">El genio de las piscinas</title>
   </programme>
-  <programme start="20210730074200 -0300" stop="20210730083200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730074200 -0400" stop="20210730083200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">El genio de las piscinas</title>
   </programme>
-  <programme start="20210730083200 -0300" stop="20210730092200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730083200 -0400" stop="20210730092200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">El genio de las piscinas</title>
   </programme>
-  <programme start="20210730092200 -0300" stop="20210730101400 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730092200 -0400" stop="20210730101400 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Mi gato endemoniado</title>
   </programme>
-  <programme start="20210730101400 -0300" stop="20210730110800 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730101400 -0400" stop="20210730110800 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Coyote Peterson aventuras sa</title>
   </programme>
-  <programme start="20210730110800 -0300" stop="20210730120200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730110800 -0400" stop="20210730120200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Islas de Indonesia</title>
   </programme>
-  <programme start="20210730120200 -0300" stop="20210730125200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730120200 -0400" stop="20210730125200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pesca mortal</title>
   </programme>
-  <programme start="20210730125200 -0300" stop="20210730134200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730125200 -0400" stop="20210730134200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pescadores al límite</title>
   </programme>
-  <programme start="20210730134200 -0300" stop="20210730143200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730134200 -0400" stop="20210730143200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pescadores al límite</title>
   </programme>
-  <programme start="20210730143200 -0300" stop="20210730152200 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730143200 -0400" stop="20210730152200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pescadores al límite</title>
   </programme>
-  <programme start="20210730152200 -0300" stop="20210730161700 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730152200 -0400" stop="20210730161700 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Grandes felinos</title>
   </programme>
-  <programme start="20210730161700 -0300" stop="20210730171000 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730161700 -0400" stop="20210730171000 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Islas de Indonesia</title>
   </programme>
-  <programme start="20210730171000 -0300" stop="20210730173600 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730171000 -0400" stop="20210730173600 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pequeños gigantes de la natur</title>
   </programme>
-  <programme start="20210730173600 -0300" stop="20210730180300 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730173600 -0400" stop="20210730180300 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pequeños gigantes de la natur</title>
   </programme>
-  <programme start="20210730180300 -0300" stop="20210730185700 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730180300 -0400" stop="20210730185700 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Monstruos de río</title>
   </programme>
-  <programme start="20210730185700 -0300" stop="20210730194700 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730185700 -0400" stop="20210730194700 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Monstruos de río</title>
   </programme>
-  <programme start="20210730194700 -0300" stop="20210730204000 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730194700 -0400" stop="20210730204000 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pesca de gigantes</title>
   </programme>
-  <programme start="20210730204000 -0300" stop="20210730213300 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730204000 -0400" stop="20210730213300 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pesca mortal</title>
   </programme>
-  <programme start="20210730213300 -0300" stop="20210730222400 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730213300 -0400" stop="20210730222400 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Pesca mortal</title>
   </programme>
-  <programme start="20210730222400 -0300" stop="20210730231500 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730222400 -0400" stop="20210730231500 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Monstruos de río aguas desco</title>
   </programme>
-  <programme start="20210730231500 -0300" stop="20210731001000 -0300" channel="Canal Animal Planet (México)">
+  <programme start="20210730231500 -0400" stop="20210731001000 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Monstruos de río</title>
   </programme>
-  <programme start="20210730003000 -0300" stop="20210730013000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730003000 -0400" stop="20210730013000 -0400" channel="Canal CNN Chile">
     <title lang="es">Aquí se Debate</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730020000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal CNN Chile">
     <title lang="es">Entrevista CNN</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730023000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730020000 -0400" stop="20210730023000 -0400" channel="Canal CNN Chile">
     <title lang="es">Conexión global PM</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730033000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730023000 -0400" stop="20210730033000 -0400" channel="Canal CNN Chile">
     <title lang="es">Última mirada</title>
   </programme>
-  <programme start="20210730033000 -0300" stop="20210730040000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730033000 -0400" stop="20210730040000 -0400" channel="Canal CNN Chile">
     <title lang="es">ENT CNN</title>
   </programme>
-  <programme start="20210730040000 -0300" stop="20210730043000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730040000 -0400" stop="20210730043000 -0400" channel="Canal CNN Chile">
     <title lang="es">Agenda económica PM</title>
   </programme>
-  <programme start="20210730043000 -0300" stop="20210730050000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal CNN Chile">
     <title lang="es">Entrevista CNN</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730053000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730050000 -0400" stop="20210730053000 -0400" channel="Canal CNN Chile">
     <title lang="es">Primera Página</title>
   </programme>
-  <programme start="20210730053000 -0300" stop="20210730070000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730053000 -0400" stop="20210730070000 -0400" channel="Canal CNN Chile">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20210730070000 -0300" stop="20210730073000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730070000 -0400" stop="20210730073000 -0400" channel="Canal CNN Chile">
     <title lang="es">Agenda económica AM</title>
   </programme>
-  <programme start="20210730073000 -0300" stop="20210730080000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730073000 -0400" stop="20210730080000 -0400" channel="Canal CNN Chile">
     <title lang="es">Conexión global AM</title>
   </programme>
-  <programme start="20210730080000 -0300" stop="20210730120000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730080000 -0400" stop="20210730120000 -0400" channel="Canal CNN Chile">
     <title lang="es">Noticias Express</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730143000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730120000 -0400" stop="20210730143000 -0400" channel="Canal CNN Chile">
     <title lang="es">Noticias tarde CNN - CHV</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal CNN Chile">
     <title lang="es">Rompeparadigmas</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730153000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730150000 -0400" stop="20210730153000 -0400" channel="Canal CNN Chile">
     <title lang="es">Minería 360</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730173000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730153000 -0400" stop="20210730173000 -0400" channel="Canal CNN Chile">
     <title lang="es">Hoy es Noticia</title>
   </programme>
-  <programme start="20210730173000 -0300" stop="20210730180000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730173000 -0400" stop="20210730180000 -0400" channel="Canal CNN Chile">
     <title lang="es">Conexión global</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730190000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730180000 -0400" stop="20210730190000 -0400" channel="Canal CNN Chile">
     <title lang="es">Hoy es Noticia</title>
   </programme>
-  <programme start="20210730190000 -0300" stop="20210730193000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730190000 -0400" stop="20210730193000 -0400" channel="Canal CNN Chile">
     <title lang="es">Agenda económica PM</title>
   </programme>
-  <programme start="20210730193000 -0300" stop="20210730213000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730193000 -0400" stop="20210730213000 -0400" channel="Canal CNN Chile">
     <title lang="es">Noticias central CNN - CHV</title>
   </programme>
-  <programme start="20210730213000 -0300" stop="20210730223000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730213000 -0400" stop="20210730223000 -0400" channel="Canal CNN Chile">
     <title lang="es">Magazine CNN</title>
   </programme>
-  <programme start="20210730223000 -0300" stop="20210730230000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730223000 -0400" stop="20210730230000 -0400" channel="Canal CNN Chile">
     <title lang="es">Agenda económica PM</title>
   </programme>
-  <programme start="20210730230000 -0300" stop="20210731000000 -0300" channel="Canal CNN Chile">
+  <programme start="20210730230000 -0400" stop="20210731000000 -0400" channel="Canal CNN Chile">
     <title lang="es">Magazine CNN</title>
   </programme>
-  <programme start="20210730003000 -0300" stop="20210730013000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730003000 -0400" stop="20210730013000 -0400" channel="Canal ESPN 2">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730023000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730013000 -0400" stop="20210730023000 -0400" channel="Canal ESPN 2">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730030000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal ESPN 2">
     <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730042500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730030000 -0400" stop="20210730042500 -0400" channel="Canal ESPN 2">
     <title lang="es">ESPN F Show</title>
   </programme>
-  <programme start="20210730042500 -0300" stop="20210730053500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730042500 -0400" stop="20210730053500 -0400" channel="Canal ESPN 2">
     <title lang="es">Fórmula 1</title>
   </programme>
-  <programme start="20210730053500 -0300" stop="20210730060500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730053500 -0400" stop="20210730060500 -0400" channel="Canal ESPN 2">
     <title lang="es">GP1</title>
   </programme>
-  <programme start="20210730060500 -0300" stop="20210730063500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730060500 -0400" stop="20210730063500 -0400" channel="Canal ESPN 2">
     <title lang="es">+Motor</title>
   </programme>
-  <programme start="20210730063500 -0300" stop="20210730070500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730063500 -0400" stop="20210730070500 -0400" channel="Canal ESPN 2">
     <title lang="es">Planet Speed</title>
   </programme>
-  <programme start="20210730070500 -0300" stop="20210730073500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730070500 -0400" stop="20210730073500 -0400" channel="Canal ESPN 2">
     <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20210730073500 -0300" stop="20210730075000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730073500 -0400" stop="20210730075000 -0400" channel="Canal ESPN 2">
     <title lang="es">Inter campeón - Serie A 2020-2021</title>
   </programme>
-  <programme start="20210730075000 -0300" stop="20210730090500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730075000 -0400" stop="20210730090500 -0400" channel="Canal ESPN 2">
     <title lang="es">Fórmula 1</title>
   </programme>
-  <programme start="20210730090500 -0300" stop="20210730093500 -0300" channel="Canal ESPN 2">
+  <programme start="20210730090500 -0400" stop="20210730093500 -0400" channel="Canal ESPN 2">
     <title lang="es">Goles de la MLS</title>
   </programme>
-  <programme start="20210730093500 -0300" stop="20210730095000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730093500 -0400" stop="20210730095000 -0400" channel="Canal ESPN 2">
     <title lang="es">Inter campeón - Serie A 2020-2021</title>
   </programme>
-  <programme start="20210730095000 -0300" stop="20210730120000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730095000 -0400" stop="20210730120000 -0400" channel="Canal ESPN 2">
     <title lang="es">Amistoso internacional</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730130000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730120000 -0400" stop="20210730130000 -0400" channel="Canal ESPN 2">
     <title lang="es">ESPN tenis</title>
   </programme>
-  <programme start="20210730130000 -0300" stop="20210730133000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730130000 -0400" stop="20210730133000 -0400" channel="Canal ESPN 2">
     <title lang="es">A.T.P. Tour Uncovered</title>
   </programme>
-  <programme start="20210730133000 -0300" stop="20210730140000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730133000 -0400" stop="20210730140000 -0400" channel="Canal ESPN 2">
     <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730143000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730140000 -0400" stop="20210730143000 -0400" channel="Canal ESPN 2">
     <title lang="es">ESPN Original Documentaries</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal ESPN 2">
     <title lang="es">ESPN Original Documentaries</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730153000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730150000 -0400" stop="20210730153000 -0400" channel="Canal ESPN 2">
     <title lang="es">En sus zapatos</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730160000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730153000 -0400" stop="20210730160000 -0400" channel="Canal ESPN 2">
     <title lang="es">En sus zapatos</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730170000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730160000 -0400" stop="20210730170000 -0400" channel="Canal ESPN 2">
     <title lang="es">F Táctico</title>
   </programme>
-  <programme start="20210730170000 -0300" stop="20210730190000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730170000 -0400" stop="20210730190000 -0400" channel="Canal ESPN 2">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20210730190000 -0300" stop="20210730193000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730190000 -0400" stop="20210730193000 -0400" channel="Canal ESPN 2">
     <title lang="es">ESPN 2</title>
   </programme>
-  <programme start="20210730193000 -0300" stop="20210730200000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730193000 -0400" stop="20210730200000 -0400" channel="Canal ESPN 2">
     <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730210000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730200000 -0400" stop="20210730210000 -0400" channel="Canal ESPN 2">
     <title lang="es">Goles de Europa</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730220000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730210000 -0400" stop="20210730220000 -0400" channel="Canal ESPN 2">
     <title lang="es">ESPN Knockout</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210731003000 -0300" channel="Canal ESPN 2">
+  <programme start="20210730220000 -0400" stop="20210731003000 -0400" channel="Canal ESPN 2">
     <title lang="es">ESPN Knockout</title>
   </programme>
-  <programme start="20210730001200 -0300" stop="20210730002400 -0300" channel="Canal Euronews">
+  <programme start="20210730001200 -0400" stop="20210730002400 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730002400 -0300" stop="20210730003600 -0300" channel="Canal Euronews">
+  <programme start="20210730002400 -0400" stop="20210730003600 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730003600 -0300" stop="20210730004700 -0300" channel="Canal Euronews">
+  <programme start="20210730003600 -0400" stop="20210730004700 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730004700 -0300" stop="20210730010000 -0300" channel="Canal Euronews">
+  <programme start="20210730004700 -0400" stop="20210730010000 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730011100 -0300" channel="Canal Euronews">
+  <programme start="20210730010000 -0400" stop="20210730011100 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730011100 -0300" stop="20210730012300 -0300" channel="Canal Euronews">
+  <programme start="20210730011100 -0400" stop="20210730012300 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730012300 -0300" stop="20210730013400 -0300" channel="Canal Euronews">
+  <programme start="20210730012300 -0400" stop="20210730013400 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730013400 -0300" stop="20210730014600 -0300" channel="Canal Euronews">
+  <programme start="20210730013400 -0400" stop="20210730014600 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730014600 -0300" stop="20210730020000 -0300" channel="Canal Euronews">
+  <programme start="20210730014600 -0400" stop="20210730020000 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730021100 -0300" channel="Canal Euronews">
+  <programme start="20210730020000 -0400" stop="20210730021100 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730021100 -0300" stop="20210730022300 -0300" channel="Canal Euronews">
+  <programme start="20210730021100 -0400" stop="20210730022300 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730022300 -0300" stop="20210730023500 -0300" channel="Canal Euronews">
+  <programme start="20210730022300 -0400" stop="20210730023500 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730023500 -0300" stop="20210730024700 -0300" channel="Canal Euronews">
+  <programme start="20210730023500 -0400" stop="20210730024700 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730024700 -0300" stop="20210730030000 -0300" channel="Canal Euronews">
+  <programme start="20210730024700 -0400" stop="20210730030000 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730031300 -0300" channel="Canal Euronews">
+  <programme start="20210730030000 -0400" stop="20210730031300 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730031300 -0300" stop="20210730032500 -0300" channel="Canal Euronews">
+  <programme start="20210730031300 -0400" stop="20210730032500 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730032500 -0300" stop="20210730033500 -0300" channel="Canal Euronews">
+  <programme start="20210730032500 -0400" stop="20210730033500 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730033500 -0300" stop="20210730034600 -0300" channel="Canal Euronews">
+  <programme start="20210730033500 -0400" stop="20210730034600 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730034600 -0300" stop="20210730040000 -0300" channel="Canal Euronews">
+  <programme start="20210730034600 -0400" stop="20210730040000 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730040000 -0300" stop="20210730041300 -0300" channel="Canal Euronews">
+  <programme start="20210730040000 -0400" stop="20210730041300 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730041300 -0300" stop="20210730042700 -0300" channel="Canal Euronews">
+  <programme start="20210730041300 -0400" stop="20210730042700 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730042700 -0300" stop="20210730044100 -0300" channel="Canal Euronews">
+  <programme start="20210730042700 -0400" stop="20210730044100 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730044100 -0300" stop="20210730050000 -0300" channel="Canal Euronews">
+  <programme start="20210730044100 -0400" stop="20210730050000 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730051200 -0300" channel="Canal Euronews">
+  <programme start="20210730050000 -0400" stop="20210730051200 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730051200 -0300" stop="20210730052400 -0300" channel="Canal Euronews">
+  <programme start="20210730051200 -0400" stop="20210730052400 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730052400 -0300" stop="20210730053700 -0300" channel="Canal Euronews">
+  <programme start="20210730052400 -0400" stop="20210730053700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730053700 -0300" stop="20210730054800 -0300" channel="Canal Euronews">
+  <programme start="20210730053700 -0400" stop="20210730054800 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730054800 -0300" stop="20210730060000 -0300" channel="Canal Euronews">
+  <programme start="20210730054800 -0400" stop="20210730060000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730061200 -0300" channel="Canal Euronews">
+  <programme start="20210730060000 -0400" stop="20210730061200 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730061200 -0300" stop="20210730062400 -0300" channel="Canal Euronews">
+  <programme start="20210730061200 -0400" stop="20210730062400 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730062400 -0300" stop="20210730063600 -0300" channel="Canal Euronews">
+  <programme start="20210730062400 -0400" stop="20210730063600 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730063600 -0300" stop="20210730064700 -0300" channel="Canal Euronews">
+  <programme start="20210730063600 -0400" stop="20210730064700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730064700 -0300" stop="20210730070000 -0300" channel="Canal Euronews">
+  <programme start="20210730064700 -0400" stop="20210730070000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730070000 -0300" stop="20210730071300 -0300" channel="Canal Euronews">
+  <programme start="20210730070000 -0400" stop="20210730071300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730071300 -0300" stop="20210730072500 -0300" channel="Canal Euronews">
+  <programme start="20210730071300 -0400" stop="20210730072500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730072500 -0300" stop="20210730073700 -0300" channel="Canal Euronews">
+  <programme start="20210730072500 -0400" stop="20210730073700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730073700 -0300" stop="20210730074800 -0300" channel="Canal Euronews">
+  <programme start="20210730073700 -0400" stop="20210730074800 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730074800 -0300" stop="20210730080000 -0300" channel="Canal Euronews">
+  <programme start="20210730074800 -0400" stop="20210730080000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730080000 -0300" stop="20210730081100 -0300" channel="Canal Euronews">
+  <programme start="20210730080000 -0400" stop="20210730081100 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730081100 -0300" stop="20210730082500 -0300" channel="Canal Euronews">
+  <programme start="20210730081100 -0400" stop="20210730082500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730082500 -0300" stop="20210730083700 -0300" channel="Canal Euronews">
+  <programme start="20210730082500 -0400" stop="20210730083700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730083700 -0300" stop="20210730090000 -0300" channel="Canal Euronews">
+  <programme start="20210730083700 -0400" stop="20210730090000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730091300 -0300" channel="Canal Euronews">
+  <programme start="20210730090000 -0400" stop="20210730091300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730091300 -0300" stop="20210730092600 -0300" channel="Canal Euronews">
+  <programme start="20210730091300 -0400" stop="20210730092600 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730092600 -0300" stop="20210730093700 -0300" channel="Canal Euronews">
+  <programme start="20210730092600 -0400" stop="20210730093700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730093700 -0300" stop="20210730094900 -0300" channel="Canal Euronews">
+  <programme start="20210730093700 -0400" stop="20210730094900 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730094900 -0300" stop="20210730100000 -0300" channel="Canal Euronews">
+  <programme start="20210730094900 -0400" stop="20210730100000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730100000 -0300" stop="20210730101100 -0300" channel="Canal Euronews">
+  <programme start="20210730100000 -0400" stop="20210730101100 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730101100 -0300" stop="20210730102300 -0300" channel="Canal Euronews">
+  <programme start="20210730101100 -0400" stop="20210730102300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730102300 -0300" stop="20210730103700 -0300" channel="Canal Euronews">
+  <programme start="20210730102300 -0400" stop="20210730103700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730103700 -0300" stop="20210730104800 -0300" channel="Canal Euronews">
+  <programme start="20210730103700 -0400" stop="20210730104800 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730104800 -0300" stop="20210730110000 -0300" channel="Canal Euronews">
+  <programme start="20210730104800 -0400" stop="20210730110000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730110000 -0300" stop="20210730111200 -0300" channel="Canal Euronews">
+  <programme start="20210730110000 -0400" stop="20210730111200 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730111200 -0300" stop="20210730112400 -0300" channel="Canal Euronews">
+  <programme start="20210730111200 -0400" stop="20210730112400 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730112400 -0300" stop="20210730113500 -0300" channel="Canal Euronews">
+  <programme start="20210730112400 -0400" stop="20210730113500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730113500 -0300" stop="20210730114800 -0300" channel="Canal Euronews">
+  <programme start="20210730113500 -0400" stop="20210730114800 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730114800 -0300" stop="20210730120000 -0300" channel="Canal Euronews">
+  <programme start="20210730114800 -0400" stop="20210730120000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Now</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730121300 -0300" channel="Canal Euronews">
+  <programme start="20210730120000 -0400" stop="20210730121300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730121300 -0300" stop="20210730122600 -0300" channel="Canal Euronews">
+  <programme start="20210730121300 -0400" stop="20210730122600 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730122600 -0300" stop="20210730123700 -0300" channel="Canal Euronews">
+  <programme start="20210730122600 -0400" stop="20210730123700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730123700 -0300" stop="20210730124900 -0300" channel="Canal Euronews">
+  <programme start="20210730123700 -0400" stop="20210730124900 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730124900 -0300" stop="20210730130000 -0300" channel="Canal Euronews">
+  <programme start="20210730124900 -0400" stop="20210730130000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730130000 -0300" stop="20210730131300 -0300" channel="Canal Euronews">
+  <programme start="20210730130000 -0400" stop="20210730131300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730131300 -0300" stop="20210730132500 -0300" channel="Canal Euronews">
+  <programme start="20210730131300 -0400" stop="20210730132500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730132500 -0300" stop="20210730133800 -0300" channel="Canal Euronews">
+  <programme start="20210730132500 -0400" stop="20210730133800 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730133800 -0300" stop="20210730135000 -0300" channel="Canal Euronews">
+  <programme start="20210730133800 -0400" stop="20210730135000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730135000 -0300" stop="20210730140000 -0300" channel="Canal Euronews">
+  <programme start="20210730135000 -0400" stop="20210730140000 -0400" channel="Canal Euronews">
     <title lang="es">Unreported Europe</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730141300 -0300" channel="Canal Euronews">
+  <programme start="20210730140000 -0400" stop="20210730141300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730141300 -0300" stop="20210730142700 -0300" channel="Canal Euronews">
+  <programme start="20210730141300 -0400" stop="20210730142700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730142700 -0300" stop="20210730144500 -0300" channel="Canal Euronews">
+  <programme start="20210730142700 -0400" stop="20210730144500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730144500 -0300" stop="20210730150000 -0300" channel="Canal Euronews">
+  <programme start="20210730144500 -0400" stop="20210730150000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730151100 -0300" channel="Canal Euronews">
+  <programme start="20210730150000 -0400" stop="20210730151100 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730151100 -0300" stop="20210730152300 -0300" channel="Canal Euronews">
+  <programme start="20210730151100 -0400" stop="20210730152300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730152300 -0300" stop="20210730153500 -0300" channel="Canal Euronews">
+  <programme start="20210730152300 -0400" stop="20210730153500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730153500 -0300" stop="20210730154700 -0300" channel="Canal Euronews">
+  <programme start="20210730153500 -0400" stop="20210730154700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730154700 -0300" stop="20210730160000 -0300" channel="Canal Euronews">
+  <programme start="20210730154700 -0400" stop="20210730160000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730161400 -0300" channel="Canal Euronews">
+  <programme start="20210730160000 -0400" stop="20210730161400 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730161400 -0300" stop="20210730162600 -0300" channel="Canal Euronews">
+  <programme start="20210730161400 -0400" stop="20210730162600 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730162600 -0300" stop="20210730163900 -0300" channel="Canal Euronews">
+  <programme start="20210730162600 -0400" stop="20210730163900 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730163900 -0300" stop="20210730165000 -0300" channel="Canal Euronews">
+  <programme start="20210730163900 -0400" stop="20210730165000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Tonight</title>
   </programme>
-  <programme start="20210730165000 -0300" stop="20210730170000 -0300" channel="Canal Euronews">
+  <programme start="20210730165000 -0400" stop="20210730170000 -0400" channel="Canal Euronews">
     <title lang="es">State of the union</title>
   </programme>
-  <programme start="20210730170000 -0300" stop="20210730171500 -0300" channel="Canal Euronews">
+  <programme start="20210730170000 -0400" stop="20210730171500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730171500 -0300" stop="20210730172600 -0300" channel="Canal Euronews">
+  <programme start="20210730171500 -0400" stop="20210730172600 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730172600 -0300" stop="20210730174300 -0300" channel="Canal Euronews">
+  <programme start="20210730172600 -0400" stop="20210730174300 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730174300 -0300" stop="20210730180000 -0300" channel="Canal Euronews">
+  <programme start="20210730174300 -0400" stop="20210730180000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730181500 -0300" channel="Canal Euronews">
+  <programme start="20210730180000 -0400" stop="20210730181500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730181500 -0300" stop="20210730182700 -0300" channel="Canal Euronews">
+  <programme start="20210730181500 -0400" stop="20210730182700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730182700 -0300" stop="20210730184000 -0300" channel="Canal Euronews">
+  <programme start="20210730182700 -0400" stop="20210730184000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730184000 -0300" stop="20210730190000 -0300" channel="Canal Euronews">
+  <programme start="20210730184000 -0400" stop="20210730190000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730190000 -0300" stop="20210730191500 -0300" channel="Canal Euronews">
+  <programme start="20210730190000 -0400" stop="20210730191500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730191500 -0300" stop="20210730192700 -0300" channel="Canal Euronews">
+  <programme start="20210730191500 -0400" stop="20210730192700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730192700 -0300" stop="20210730193600 -0300" channel="Canal Euronews">
+  <programme start="20210730192700 -0400" stop="20210730193600 -0400" channel="Canal Euronews">
     <title lang="es">State of the union</title>
   </programme>
-  <programme start="20210730193600 -0300" stop="20210730194800 -0300" channel="Canal Euronews">
+  <programme start="20210730193600 -0400" stop="20210730194800 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730194800 -0300" stop="20210730200000 -0300" channel="Canal Euronews">
+  <programme start="20210730194800 -0400" stop="20210730200000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730201600 -0300" channel="Canal Euronews">
+  <programme start="20210730200000 -0400" stop="20210730201600 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730201600 -0300" stop="20210730202800 -0300" channel="Canal Euronews">
+  <programme start="20210730201600 -0400" stop="20210730202800 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730202800 -0300" stop="20210730204200 -0300" channel="Canal Euronews">
+  <programme start="20210730202800 -0400" stop="20210730204200 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730204200 -0300" stop="20210730210000 -0300" channel="Canal Euronews">
+  <programme start="20210730204200 -0400" stop="20210730210000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730211500 -0300" channel="Canal Euronews">
+  <programme start="20210730210000 -0400" stop="20210730211500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730211500 -0300" stop="20210730212700 -0300" channel="Canal Euronews">
+  <programme start="20210730211500 -0400" stop="20210730212700 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730212700 -0300" stop="20210730214500 -0300" channel="Canal Euronews">
+  <programme start="20210730212700 -0400" stop="20210730214500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730214500 -0300" stop="20210730220000 -0300" channel="Canal Euronews">
+  <programme start="20210730214500 -0400" stop="20210730220000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210730221500 -0300" channel="Canal Euronews">
+  <programme start="20210730220000 -0400" stop="20210730221500 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730221500 -0300" stop="20210730222600 -0300" channel="Canal Euronews">
+  <programme start="20210730221500 -0400" stop="20210730222600 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730222600 -0300" stop="20210730224200 -0300" channel="Canal Euronews">
+  <programme start="20210730222600 -0400" stop="20210730224200 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730224200 -0300" stop="20210730230000 -0300" channel="Canal Euronews">
+  <programme start="20210730224200 -0400" stop="20210730230000 -0400" channel="Canal Euronews">
     <title lang="es">Euronews Week-End</title>
   </programme>
-  <programme start="20210730230000 -0300" stop="20210730230000 -0300" channel="Canal Euronews">
+  <programme start="20210730230000 -0400" stop="20210730230000 -0400" channel="Canal Euronews">
     <title lang="es">EuroNews</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730020000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730010000 -0400" stop="20210730020000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">WWE Main event</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730030000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730020000 -0400" stop="20210730030000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">Expediente Futbol</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730050000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730030000 -0400" stop="20210730050000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">Lanús vs. Rosario Central</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730060000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730050000 -0400" stop="20210730060000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">WWE Main event</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730070000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730060000 -0400" stop="20210730070000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">UFC Clásicos</title>
   </programme>
-  <programme start="20210730070000 -0300" stop="20210730090000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730070000 -0400" stop="20210730090000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">CONMEBOL Libertadores</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730110000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730090000 -0400" stop="20210730110000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">CONMEBOL Libertadores</title>
   </programme>
-  <programme start="20210730110000 -0300" stop="20210730120000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730110000 -0400" stop="20210730120000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">Review</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730150000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730120000 -0400" stop="20210730150000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">WWE Raw</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730170000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730150000 -0400" stop="20210730170000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">Octavos de final vuelta Atlético Mineiro vs. Boca Juniors</title>
   </programme>
-  <programme start="20210730170000 -0300" stop="20210730180000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730170000 -0400" stop="20210730180000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">WWE Raw Highlights</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730190000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730180000 -0400" stop="20210730190000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">Expediente Futbol</title>
   </programme>
-  <programme start="20210730190000 -0300" stop="20210730210000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730190000 -0400" stop="20210730210000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">Racing vs. São Paulo</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730220000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730210000 -0400" stop="20210730220000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">Fútbol clásico de la UEFA Champions League</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210730230000 -0300" channel="Canal Fox Sports 2 (Cono Sur)">
+  <programme start="20210730220000 -0400" stop="20210730230000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">UEFA Champions Classic</title>
   </programme>
-  <programme start="20210730003000 -0300" stop="20210730010000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730230000 -0400" stop="20210731010000 -0400" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">F1</title>
+  </programme>
+  <programme start="20210730003000 -0400" stop="20210730010000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Mujeres pioneras</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730013000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730010000 -0400" stop="20210730013000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Nuestros Héroes</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730020000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">A volar</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730023000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730020000 -0400" stop="20210730023000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">ICA comunica</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730030000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Tierra</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730033000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730030000 -0400" stop="20210730033000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">La búsqueda es contigo</title>
   </programme>
-  <programme start="20210730033000 -0300" stop="20210730040000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730033000 -0400" stop="20210730040000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Mujer es saber</title>
   </programme>
-  <programme start="20210730040000 -0300" stop="20210730043000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730040000 -0400" stop="20210730043000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">SIC TeVe</title>
   </programme>
-  <programme start="20210730043000 -0300" stop="20210730050000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Escenarios históricos</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730060000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730050000 -0400" stop="20210730060000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">RTVC noticias</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730073000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730060000 -0400" stop="20210730073000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">La señal de la mañana</title>
   </programme>
-  <programme start="20210730073000 -0300" stop="20210730073200 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730073000 -0400" stop="20210730073200 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Pronóstico del tiempo</title>
   </programme>
-  <programme start="20210730073200 -0300" stop="20210730080000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730073200 -0400" stop="20210730080000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">La señal de la mañana</title>
   </programme>
-  <programme start="20210730080000 -0300" stop="20210730081500 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730080000 -0400" stop="20210730081500 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Alianza Regional Informativa</title>
   </programme>
-  <programme start="20210730081500 -0300" stop="20210730083000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730081500 -0400" stop="20210730083000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Cápsulas informativas presidencia de la república</title>
   </programme>
-  <programme start="20210730083000 -0300" stop="20210730093000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730083000 -0400" stop="20210730093000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Bien dateado</title>
   </programme>
-  <programme start="20210730093000 -0300" stop="20210730100000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730093000 -0400" stop="20210730100000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">La Clase</title>
   </programme>
-  <programme start="20210730100000 -0300" stop="20210730110000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730100000 -0400" stop="20210730110000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Profe en tu casa</title>
   </programme>
-  <programme start="20210730110000 -0300" stop="20210730113000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730110000 -0400" stop="20210730113000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Chévere pensar en voz alta</title>
   </programme>
-  <programme start="20210730113000 -0300" stop="20210730120000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730113000 -0400" stop="20210730120000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Encuadre real</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730123000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730120000 -0400" stop="20210730123000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">RTVC noticias</title>
   </programme>
-  <programme start="20210730123000 -0300" stop="20210730124500 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730123000 -0400" stop="20210730124500 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Alianza Regional Informativa</title>
   </programme>
-  <programme start="20210730124500 -0300" stop="20210730130000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730124500 -0400" stop="20210730130000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">INFORMATIVO EURONEWS</title>
   </programme>
-  <programme start="20210730130000 -0300" stop="20210730131500 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730130000 -0400" stop="20210730131500 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">DW Especial Coronavirus</title>
   </programme>
-  <programme start="20210730131500 -0300" stop="20210730133000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730131500 -0400" stop="20210730133000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Economía DW</title>
   </programme>
-  <programme start="20210730133000 -0300" stop="20210730133200 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730133000 -0400" stop="20210730133200 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Pronóstico del tiempo</title>
   </programme>
-  <programme start="20210730133200 -0300" stop="20210730140000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730133200 -0400" stop="20210730140000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">El mundo al día</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730143000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730140000 -0400" stop="20210730143000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Nuestros Héroes</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Las Aventuras del Profesor Yarumo</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730153000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730150000 -0400" stop="20210730153000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">DW Noticias</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730161700 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730153000 -0400" stop="20210730161700 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Encuadre real</title>
   </programme>
-  <programme start="20210730161700 -0300" stop="20210730163000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730161700 -0400" stop="20210730163000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Historias de la contingencia</title>
   </programme>
-  <programme start="20210730163000 -0300" stop="20210730170000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730163000 -0400" stop="20210730170000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Enlaces</title>
   </programme>
-  <programme start="20210730170000 -0300" stop="20210730180000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730170000 -0400" stop="20210730180000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Encuadre real</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730183000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730180000 -0400" stop="20210730183000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">La Clase</title>
   </programme>
-  <programme start="20210730183000 -0300" stop="20210730190000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730183000 -0400" stop="20210730190000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Chévere pensar en voz alta</title>
   </programme>
-  <programme start="20210730190000 -0300" stop="20210730190100 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730190000 -0400" stop="20210730190100 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Colombia 360</title>
   </programme>
-  <programme start="20210730190100 -0300" stop="20210730190300 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730190100 -0400" stop="20210730190300 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Pronóstico del tiempo</title>
   </programme>
-  <programme start="20210730190300 -0300" stop="20210730193000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730190300 -0400" stop="20210730193000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">El mundo al día</title>
   </programme>
-  <programme start="20210730193000 -0300" stop="20210730200000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730193000 -0400" stop="20210730200000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Actores de paz</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730203000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730200000 -0400" stop="20210730203000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Mujeres pioneras</title>
   </programme>
-  <programme start="20210730203000 -0300" stop="20210730210000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730203000 -0400" stop="20210730210000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Educación y desarrollo</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730211500 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730210000 -0400" stop="20210730211500 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Alianza Regional Informativa</title>
   </programme>
-  <programme start="20210730211500 -0300" stop="20210730212500 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730211500 -0400" stop="20210730212500 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Informativo al día</title>
   </programme>
-  <programme start="20210730212500 -0300" stop="20210730213000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730212500 -0400" stop="20210730213000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Cápsulas informativas presidencia de la república</title>
   </programme>
-  <programme start="20210730213000 -0300" stop="20210730220000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730213000 -0400" stop="20210730220000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Sena al aire TV</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210730230000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730220000 -0400" stop="20210730230000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">RTVC noticias</title>
   </programme>
-  <programme start="20210730230000 -0300" stop="20210731000000 -0300" channel="Canal Institucional (Colombia)">
+  <programme start="20210730230000 -0400" stop="20210731000000 -0400" channel="Canal Institucional (Colombia)">
     <title lang="es">Dramatizados del bicentenario</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730020000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730010000 -0400" stop="20210730020000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730040000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730020000 -0400" stop="20210730040000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Término de transmisiones</title>
   </programme>
-  <programme start="20210730040000 -0300" stop="20210730100000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730040000 -0400" stop="20210730100000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Swiss Nature Labs</title>
   </programme>
-  <programme start="20210730100000 -0300" stop="20210730140000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730100000 -0400" stop="20210730140000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Antena 3D</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730143000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730140000 -0400" stop="20210730143000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Swiss Nature Labs</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730183000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730143000 -0400" stop="20210730183000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">La tarde de Hola Chile</title>
   </programme>
-  <programme start="20210730183000 -0300" stop="20210730202500 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730183000 -0400" stop="20210730202500 -0400" channel="Canal La Red (Chile)">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20210730202500 -0300" stop="20210730210000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730202500 -0400" stop="20210730210000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Lazos de sangre</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730223000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730210000 -0400" stop="20210730223000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Políticamente incorrectos</title>
   </programme>
-  <programme start="20210730223000 -0300" stop="20210730230000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730223000 -0400" stop="20210730230000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Así somos</title>
   </programme>
-  <programme start="20210730230000 -0300" stop="20210731000000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20210730230000 -0400" stop="20210731000000 -0400" channel="Canal La Red (Chile)">
     <title lang="es">Así somos</title>
   </programme>
-  <programme start="20210730003000 -0300" stop="20210730010000 -0300" channel="Canal RT en Español">
+  <programme start="20210730003000 -0400" stop="20210730010000 -0400" channel="Canal RT en Español">
     <title lang="es">Detrás de la noticia</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730013000 -0300" channel="Canal RT en Español">
+  <programme start="20210730010000 -0400" stop="20210730013000 -0400" channel="Canal RT en Español">
     <title lang="es">Keiser Report</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730020000 -0300" channel="Canal RT en Español">
+  <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730023000 -0300" channel="Canal RT en Español">
+  <programme start="20210730020000 -0400" stop="20210730023000 -0400" channel="Canal RT en Español">
     <title lang="es">Detrás de la noticia</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730030000 -0300" channel="Canal RT en Español">
+  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal RT en Español">
     <title lang="es">Keiser Report</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730033000 -0300" channel="Canal RT en Español">
+  <programme start="20210730030000 -0400" stop="20210730033000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730033000 -0300" stop="20210730040000 -0300" channel="Canal RT en Español">
+  <programme start="20210730033000 -0400" stop="20210730040000 -0400" channel="Canal RT en Español">
     <title lang="es">Detrás de la noticia</title>
   </programme>
-  <programme start="20210730040000 -0300" stop="20210730043000 -0300" channel="Canal RT en Español">
+  <programme start="20210730040000 -0400" stop="20210730043000 -0400" channel="Canal RT en Español">
     <title lang="es">Keiser Report</title>
   </programme>
-  <programme start="20210730043000 -0300" stop="20210730050000 -0300" channel="Canal RT en Español">
+  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730053000 -0300" channel="Canal RT en Español">
+  <programme start="20210730050000 -0400" stop="20210730053000 -0400" channel="Canal RT en Español">
     <title lang="es">Detrás de la noticia</title>
   </programme>
-  <programme start="20210730053000 -0300" stop="20210730060000 -0300" channel="Canal RT en Español">
+  <programme start="20210730053000 -0400" stop="20210730060000 -0400" channel="Canal RT en Español">
     <title lang="es">Keiser Report</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730063000 -0300" channel="Canal RT en Español">
+  <programme start="20210730060000 -0400" stop="20210730063000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730063000 -0300" stop="20210730070000 -0300" channel="Canal RT en Español">
+  <programme start="20210730063000 -0400" stop="20210730070000 -0400" channel="Canal RT en Español">
     <title lang="es">Un metro cuadrado de infierno</title>
   </programme>
-  <programme start="20210730070000 -0300" stop="20210730073000 -0300" channel="Canal RT en Español">
+  <programme start="20210730070000 -0400" stop="20210730073000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730073000 -0300" stop="20210730080000 -0300" channel="Canal RT en Español">
+  <programme start="20210730073000 -0400" stop="20210730080000 -0400" channel="Canal RT en Español">
     <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20210730080000 -0300" stop="20210730083000 -0300" channel="Canal RT en Español">
+  <programme start="20210730080000 -0400" stop="20210730083000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730083000 -0300" stop="20210730090000 -0300" channel="Canal RT en Español">
+  <programme start="20210730083000 -0400" stop="20210730090000 -0400" channel="Canal RT en Español">
     <title lang="es">Un metro cuadrado de infierno</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730093000 -0300" channel="Canal RT en Español">
+  <programme start="20210730090000 -0400" stop="20210730093000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730093000 -0300" stop="20210730100000 -0300" channel="Canal RT en Español">
+  <programme start="20210730093000 -0400" stop="20210730100000 -0400" channel="Canal RT en Español">
     <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20210730100000 -0300" stop="20210730103000 -0300" channel="Canal RT en Español">
+  <programme start="20210730100000 -0400" stop="20210730103000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730103000 -0300" stop="20210730110000 -0300" channel="Canal RT en Español">
+  <programme start="20210730103000 -0400" stop="20210730110000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730110000 -0300" stop="20210730113000 -0300" channel="Canal RT en Español">
+  <programme start="20210730110000 -0400" stop="20210730113000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730113000 -0300" stop="20210730120000 -0300" channel="Canal RT en Español">
+  <programme start="20210730113000 -0400" stop="20210730120000 -0400" channel="Canal RT en Español">
     <title lang="es">Un metro cuadrado de infierno</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730123000 -0300" channel="Canal RT en Español">
+  <programme start="20210730120000 -0400" stop="20210730123000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730123000 -0300" stop="20210730130000 -0300" channel="Canal RT en Español">
+  <programme start="20210730123000 -0400" stop="20210730130000 -0400" channel="Canal RT en Español">
     <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20210730130000 -0300" stop="20210730133000 -0300" channel="Canal RT en Español">
+  <programme start="20210730130000 -0400" stop="20210730133000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730133000 -0300" stop="20210730140000 -0300" channel="Canal RT en Español">
+  <programme start="20210730133000 -0400" stop="20210730140000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730143000 -0300" channel="Canal RT en Español">
+  <programme start="20210730140000 -0400" stop="20210730143000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="Canal RT en Español">
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal RT en Español">
     <title lang="es">Un metro cuadrado de infierno</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730153000 -0300" channel="Canal RT en Español">
+  <programme start="20210730150000 -0400" stop="20210730153000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730160000 -0300" channel="Canal RT en Español">
+  <programme start="20210730153000 -0400" stop="20210730160000 -0400" channel="Canal RT en Español">
     <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730163000 -0300" channel="Canal RT en Español">
+  <programme start="20210730160000 -0400" stop="20210730163000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730163000 -0300" stop="20210730170000 -0300" channel="Canal RT en Español">
+  <programme start="20210730163000 -0400" stop="20210730170000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730170000 -0300" stop="20210730173000 -0300" channel="Canal RT en Español">
+  <programme start="20210730170000 -0400" stop="20210730173000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730173000 -0300" stop="20210730180000 -0300" channel="Canal RT en Español">
+  <programme start="20210730173000 -0400" stop="20210730180000 -0400" channel="Canal RT en Español">
     <title lang="es">Un metro cuadrado de infierno</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730183000 -0300" channel="Canal RT en Español">
+  <programme start="20210730180000 -0400" stop="20210730183000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730183000 -0300" stop="20210730190000 -0300" channel="Canal RT en Español">
+  <programme start="20210730183000 -0400" stop="20210730190000 -0400" channel="Canal RT en Español">
     <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20210730190000 -0300" stop="20210730193000 -0300" channel="Canal RT en Español">
+  <programme start="20210730190000 -0400" stop="20210730193000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730193000 -0300" stop="20210730200000 -0300" channel="Canal RT en Español">
+  <programme start="20210730193000 -0400" stop="20210730200000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730203000 -0300" channel="Canal RT en Español">
+  <programme start="20210730200000 -0400" stop="20210730203000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730203000 -0300" stop="20210730210000 -0300" channel="Canal RT en Español">
+  <programme start="20210730203000 -0400" stop="20210730210000 -0400" channel="Canal RT en Español">
     <title lang="es">Un metro cuadrado de infierno</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730213000 -0300" channel="Canal RT en Español">
+  <programme start="20210730210000 -0400" stop="20210730213000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730213000 -0300" stop="20210730220000 -0300" channel="Canal RT en Español">
+  <programme start="20210730213000 -0400" stop="20210730220000 -0400" channel="Canal RT en Español">
     <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210730223000 -0300" channel="Canal RT en Español">
+  <programme start="20210730220000 -0400" stop="20210730223000 -0400" channel="Canal RT en Español">
     <title lang="es">Noticias</title>
   </programme>
-  <programme start="20210730223000 -0300" stop="20210730230000 -0300" channel="Canal RT en Español">
+  <programme start="20210730223000 -0400" stop="20210730230000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730230000 -0300" stop="20210730233000 -0300" channel="Canal RT en Español">
+  <programme start="20210730230000 -0400" stop="20210730233000 -0400" channel="Canal RT en Español">
     <title lang="es">La lista de Erick</title>
   </programme>
-  <programme start="20210730233000 -0300" stop="20210731000000 -0300" channel="Canal RT en Español">
+  <programme start="20210730233000 -0400" stop="20210731000000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
-  <programme start="20210730003000 -0300" stop="20210730010000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730003000 -0400" stop="20210730010000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Cimarrones</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730013000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730010000 -0400" stop="20210730013000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Wayuú, gente de arena</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730023000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730013000 -0400" stop="20210730023000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Dejémonos de vainas</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730030000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Profesor súper O - Histórico</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730033000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730030000 -0400" stop="20210730033000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El Mundo Animal De Max Rodriguez</title>
   </programme>
-  <programme start="20210730033000 -0300" stop="20210730060000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730033000 -0400" stop="20210730060000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Ajuste Señal Colombia</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730070000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730060000 -0400" stop="20210730070000 -0400" channel="Canal Señal Colombia">
     <title lang="es">La señal de la mañana</title>
   </programme>
-  <programme start="20210730070000 -0300" stop="20210730070800 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730070000 -0400" stop="20210730070800 -0400" channel="Canal Señal Colombia">
     <title lang="es">Ooommm mmmooo Yoga para niños</title>
   </programme>
-  <programme start="20210730070800 -0300" stop="20210730071500 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730070800 -0400" stop="20210730071500 -0400" channel="Canal Señal Colombia">
     <title lang="es">Petit</title>
   </programme>
-  <programme start="20210730071500 -0300" stop="20210730072000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730071500 -0400" stop="20210730072000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Tomás, Alba y Edison</title>
   </programme>
-  <programme start="20210730072000 -0300" stop="20210730072500 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730072000 -0400" stop="20210730072500 -0400" channel="Canal Señal Colombia">
     <title lang="es">Cuentitos mágicos</title>
   </programme>
-  <programme start="20210730072500 -0300" stop="20210730073000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730072500 -0400" stop="20210730073000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Maguaré, karaoke en La Ceiba</title>
   </programme>
-  <programme start="20210730073000 -0300" stop="20210730073700 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730073000 -0400" stop="20210730073700 -0400" channel="Canal Señal Colombia">
     <title lang="es">Polo</title>
   </programme>
-  <programme start="20210730073700 -0300" stop="20210730075000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730073700 -0400" stop="20210730075000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Wanda y el alien</title>
   </programme>
-  <programme start="20210730075000 -0300" stop="20210730080000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730075000 -0400" stop="20210730080000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Historias de la Casa del Árbol</title>
   </programme>
-  <programme start="20210730080000 -0300" stop="20210730082500 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730080000 -0400" stop="20210730082500 -0400" channel="Canal Señal Colombia">
     <title lang="es">Plaza Sesamo</title>
   </programme>
-  <programme start="20210730082500 -0300" stop="20210730085000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730082500 -0400" stop="20210730085000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El Hotel Furchester</title>
   </programme>
-  <programme start="20210730085000 -0300" stop="20210730090000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730085000 -0400" stop="20210730090000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El mundo de matemáticas de Beto y Enrique</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730100000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730090000 -0400" stop="20210730100000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Territorio mágico</title>
   </programme>
-  <programme start="20210730100000 -0300" stop="20210730110000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730100000 -0400" stop="20210730110000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Profe en tu casa</title>
   </programme>
-  <programme start="20210730110000 -0300" stop="20210730113000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730110000 -0400" stop="20210730113000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El libro de la selva</title>
   </programme>
-  <programme start="20210730113000 -0300" stop="20210730114500 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730113000 -0400" stop="20210730114500 -0400" channel="Canal Señal Colombia">
     <title lang="es">Cuatro reinos</title>
   </programme>
-  <programme start="20210730114500 -0300" stop="20210730115500 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730114500 -0400" stop="20210730115500 -0400" channel="Canal Señal Colombia">
     <title lang="es">Mati &amp; Rocco</title>
   </programme>
-  <programme start="20210730115500 -0300" stop="20210730120000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730115500 -0400" stop="20210730120000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El profesor Súper O</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730123000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730120000 -0400" stop="20210730123000 -0400" channel="Canal Señal Colombia">
     <title lang="es">RTVC noticias</title>
   </programme>
-  <programme start="20210730123000 -0300" stop="20210730133000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730123000 -0400" stop="20210730133000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Caballo viejo</title>
   </programme>
-  <programme start="20210730133000 -0300" stop="20210730140000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730133000 -0400" stop="20210730140000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El juicio del conde</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730141500 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730140000 -0400" stop="20210730141500 -0400" channel="Canal Señal Colombia">
     <title lang="es">Alex de todas formas</title>
   </programme>
-  <programme start="20210730141500 -0300" stop="20210730142200 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730141500 -0400" stop="20210730142200 -0400" channel="Canal Señal Colombia">
     <title lang="es">Cuento viajero</title>
   </programme>
-  <programme start="20210730142200 -0300" stop="20210730143000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730142200 -0400" stop="20210730143000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Asquerosamente rico</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El profesor Súper O</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730151200 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730150000 -0400" stop="20210730151200 -0400" channel="Canal Señal Colombia">
     <title lang="es">Espantijos</title>
   </programme>
-  <programme start="20210730151200 -0300" stop="20210730152500 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730151200 -0400" stop="20210730152500 -0400" channel="Canal Señal Colombia">
     <title lang="es">Puerto papel</title>
   </programme>
-  <programme start="20210730152500 -0300" stop="20210730153000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730152500 -0400" stop="20210730153000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Mr. Trance</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730160000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730153000 -0400" stop="20210730160000 -0400" channel="Canal Señal Colombia">
     <title lang="es">El Mundo Animal De Max Rodriguez</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730173000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730160000 -0400" stop="20210730173000 -0400" channel="Canal Señal Colombia">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20210730173000 -0300" stop="20210730180000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730173000 -0400" stop="20210730180000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Músicas para salvar el mundo</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730190000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730180000 -0400" stop="20210730190000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Medidas de prevención y acción frente al COVID-19</title>
   </programme>
-  <programme start="20210730190000 -0300" stop="20210730200000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730190000 -0400" stop="20210730200000 -0400" channel="Canal Señal Colombia">
     <title lang="es">RTVC noticias</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730210000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730200000 -0400" stop="20210730210000 -0400" channel="Canal Señal Colombia">
     <title lang="es">RTVC noticias</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730213000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730210000 -0400" stop="20210730213000 -0400" channel="Canal Señal Colombia">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20210730213000 -0300" stop="20210730220000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730213000 -0400" stop="20210730220000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Chisga Records</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210731000000 -0300" channel="Canal Señal Colombia">
+  <programme start="20210730220000 -0400" stop="20210731000000 -0400" channel="Canal Señal Colombia">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20210730000500 -0300" stop="20210730003000 -0300" channel="Canal teleSUR">
+  <programme start="20210730000500 -0400" stop="20210730003000 -0400" channel="Canal teleSUR">
     <title lang="es">Notables</title>
   </programme>
-  <programme start="20210730003000 -0300" stop="20210730010000 -0300" channel="Canal teleSUR">
+  <programme start="20210730003000 -0400" stop="20210730010000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730010500 -0300" channel="Canal teleSUR">
+  <programme start="20210730010000 -0400" stop="20210730010500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730010500 -0300" stop="20210730013000 -0300" channel="Canal teleSUR">
+  <programme start="20210730010500 -0400" stop="20210730013000 -0400" channel="Canal teleSUR">
     <title lang="es">Somos</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730020000 -0300" channel="Canal teleSUR">
+  <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730020500 -0300" channel="Canal teleSUR">
+  <programme start="20210730020000 -0400" stop="20210730020500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730020500 -0300" stop="20210730023000 -0300" channel="Canal teleSUR">
+  <programme start="20210730020500 -0400" stop="20210730023000 -0400" channel="Canal teleSUR">
     <title lang="es">Impacto económico: Emisión Estelar</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730033000 -0300" channel="Canal teleSUR">
+  <programme start="20210730023000 -0400" stop="20210730033000 -0400" channel="Canal teleSUR">
     <title lang="es">Es noticia</title>
   </programme>
-  <programme start="20210730033000 -0300" stop="20210730040000 -0300" channel="Canal teleSUR">
+  <programme start="20210730033000 -0400" stop="20210730040000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730040000 -0300" stop="20210730040500 -0300" channel="Canal teleSUR">
+  <programme start="20210730040000 -0400" stop="20210730040500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730040500 -0300" stop="20210730043000 -0300" channel="Canal teleSUR">
+  <programme start="20210730040500 -0400" stop="20210730043000 -0400" channel="Canal teleSUR">
     <title lang="es">Notables</title>
   </programme>
-  <programme start="20210730043000 -0300" stop="20210730050000 -0300" channel="Canal teleSUR">
+  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730050500 -0300" channel="Canal teleSUR">
+  <programme start="20210730050000 -0400" stop="20210730050500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730050500 -0300" stop="20210730053000 -0300" channel="Canal teleSUR">
+  <programme start="20210730050500 -0400" stop="20210730053000 -0400" channel="Canal teleSUR">
     <title lang="es">Somos</title>
   </programme>
-  <programme start="20210730053000 -0300" stop="20210730060000 -0300" channel="Canal teleSUR">
+  <programme start="20210730053000 -0400" stop="20210730060000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730063000 -0300" channel="Canal teleSUR">
+  <programme start="20210730060000 -0400" stop="20210730063000 -0400" channel="Canal teleSUR">
     <title lang="es">Cruce de Palabras</title>
   </programme>
-  <programme start="20210730063000 -0300" stop="20210730070000 -0300" channel="Canal teleSUR">
+  <programme start="20210730063000 -0400" stop="20210730070000 -0400" channel="Canal teleSUR">
     <title lang="es">EnClaveMedíatica En Vivo</title>
   </programme>
-  <programme start="20210730070000 -0300" stop="20210730070500 -0300" channel="Canal teleSUR">
+  <programme start="20210730070000 -0400" stop="20210730070500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730070500 -0300" stop="20210730073000 -0300" channel="Canal teleSUR">
+  <programme start="20210730070500 -0400" stop="20210730073000 -0400" channel="Canal teleSUR">
     <title lang="es">Vidas</title>
   </programme>
-  <programme start="20210730073000 -0300" stop="20210730083000 -0300" channel="Canal teleSUR">
+  <programme start="20210730073000 -0400" stop="20210730083000 -0400" channel="Canal teleSUR">
     <title lang="es">Agenda Abierta En Vivo</title>
   </programme>
-  <programme start="20210730083000 -0300" stop="20210730090000 -0300" channel="Canal teleSUR">
+  <programme start="20210730083000 -0400" stop="20210730090000 -0400" channel="Canal teleSUR">
     <title lang="es">Reporte 360 En Vivo</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730093000 -0300" channel="Canal teleSUR">
+  <programme start="20210730090000 -0400" stop="20210730093000 -0400" channel="Canal teleSUR">
     <title lang="es">Impacto económico - Emisión matutina En Vivo</title>
   </programme>
-  <programme start="20210730093000 -0300" stop="20210730100000 -0300" channel="Canal teleSUR">
+  <programme start="20210730093000 -0400" stop="20210730100000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730100000 -0300" stop="20210730100500 -0300" channel="Canal teleSUR">
+  <programme start="20210730100000 -0400" stop="20210730100500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730100500 -0300" stop="20210730103000 -0300" channel="Canal teleSUR">
+  <programme start="20210730100500 -0400" stop="20210730103000 -0400" channel="Canal teleSUR">
     <title lang="es">Deportes TeleSUR En Vivo</title>
   </programme>
-  <programme start="20210730103000 -0300" stop="20210730113000 -0300" channel="Canal teleSUR">
+  <programme start="20210730103000 -0400" stop="20210730113000 -0400" channel="Canal teleSUR">
     <title lang="es">Conexión Global En Vivo</title>
   </programme>
-  <programme start="20210730113000 -0300" stop="20210730123000 -0300" channel="Canal teleSUR">
+  <programme start="20210730113000 -0400" stop="20210730123000 -0400" channel="Canal teleSUR">
     <title lang="es">Jugada crítica En Vivo</title>
   </programme>
-  <programme start="20210730123000 -0300" stop="20210730130000 -0300" channel="Canal teleSUR">
+  <programme start="20210730123000 -0400" stop="20210730130000 -0400" channel="Canal teleSUR">
     <title lang="es">Conexión Digital En Vivo</title>
   </programme>
-  <programme start="20210730130000 -0300" stop="20210730130500 -0300" channel="Canal teleSUR">
+  <programme start="20210730130000 -0400" stop="20210730130500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730130500 -0300" stop="20210730133000 -0300" channel="Canal teleSUR">
+  <programme start="20210730130500 -0400" stop="20210730133000 -0400" channel="Canal teleSUR">
     <title lang="es">Vidas</title>
   </programme>
-  <programme start="20210730133000 -0300" stop="20210730140000 -0300" channel="Canal teleSUR">
+  <programme start="20210730133000 -0400" stop="20210730140000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur noticias: Lenguaje de señas En Vivo</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730140500 -0300" channel="Canal teleSUR">
+  <programme start="20210730140000 -0400" stop="20210730140500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730140500 -0300" stop="20210730143000 -0300" channel="Canal teleSUR">
+  <programme start="20210730140500 -0400" stop="20210730143000 -0400" channel="Canal teleSUR">
     <title lang="es">Somos En Vivo</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730150000 -0300" channel="Canal teleSUR">
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730150500 -0300" channel="Canal teleSUR">
+  <programme start="20210730150000 -0400" stop="20210730150500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730150500 -0300" stop="20210730153000 -0300" channel="Canal teleSUR">
+  <programme start="20210730150500 -0400" stop="20210730153000 -0400" channel="Canal teleSUR">
     <title lang="es">Impacto económico - Emisión matutina</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730160000 -0300" channel="Canal teleSUR">
+  <programme start="20210730153000 -0400" stop="20210730160000 -0400" channel="Canal teleSUR">
     <title lang="es">Temas del Día En Vivo</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730160500 -0300" channel="Canal teleSUR">
+  <programme start="20210730160000 -0400" stop="20210730160500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730160500 -0300" stop="20210730163000 -0300" channel="Canal teleSUR">
+  <programme start="20210730160500 -0400" stop="20210730163000 -0400" channel="Canal teleSUR">
     <title lang="es">Deportes TeleSUR En Vivo</title>
   </programme>
-  <programme start="20210730163000 -0300" stop="20210730170000 -0300" channel="Canal teleSUR">
+  <programme start="20210730163000 -0400" stop="20210730170000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730170000 -0300" stop="20210730170500 -0300" channel="Canal teleSUR">
+  <programme start="20210730170000 -0400" stop="20210730170500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730170500 -0300" stop="20210730173000 -0300" channel="Canal teleSUR">
+  <programme start="20210730170500 -0400" stop="20210730173000 -0400" channel="Canal teleSUR">
     <title lang="es">Entre Fronteras</title>
   </programme>
-  <programme start="20210730173000 -0300" stop="20210730180000 -0300" channel="Canal teleSUR">
+  <programme start="20210730173000 -0400" stop="20210730180000 -0400" channel="Canal teleSUR">
     <title lang="es">Reporte 360 En Vivo</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730183000 -0300" channel="Canal teleSUR">
+  <programme start="20210730180000 -0400" stop="20210730183000 -0400" channel="Canal teleSUR">
     <title lang="es">Impacto económico: Emisión Estelar En Vivo</title>
   </programme>
-  <programme start="20210730183000 -0300" stop="20210730193000 -0300" channel="Canal teleSUR">
+  <programme start="20210730183000 -0400" stop="20210730193000 -0400" channel="Canal teleSUR">
     <title lang="es">Edición Central En Vivo</title>
   </programme>
-  <programme start="20210730193000 -0300" stop="20210730203000 -0300" channel="Canal teleSUR">
+  <programme start="20210730193000 -0400" stop="20210730203000 -0400" channel="Canal teleSUR">
     <title lang="es">Es noticia En Vivo</title>
   </programme>
-  <programme start="20210730203000 -0300" stop="20210730210000 -0300" channel="Canal teleSUR">
+  <programme start="20210730203000 -0400" stop="20210730210000 -0400" channel="Canal teleSUR">
     <title lang="es">Notables</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730210500 -0300" channel="Canal teleSUR">
+  <programme start="20210730210000 -0400" stop="20210730210500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730210500 -0300" stop="20210730213000 -0300" channel="Canal teleSUR">
+  <programme start="20210730210500 -0400" stop="20210730213000 -0400" channel="Canal teleSUR">
     <title lang="es">Síntesis</title>
   </programme>
-  <programme start="20210730213000 -0300" stop="20210730220000 -0300" channel="Canal teleSUR">
+  <programme start="20210730213000 -0400" stop="20210730220000 -0400" channel="Canal teleSUR">
     <title lang="es">Telesur Noticias En Vivo</title>
   </programme>
-  <programme start="20210730220000 -0300" stop="20210730220500 -0300" channel="Canal teleSUR">
+  <programme start="20210730220000 -0400" stop="20210730220500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730220500 -0300" stop="20210730230000 -0300" channel="Canal teleSUR">
+  <programme start="20210730220500 -0400" stop="20210730230000 -0400" channel="Canal teleSUR">
     <title lang="es">El mundo en contexto</title>
   </programme>
-  <programme start="20210730230000 -0300" stop="20210730230500 -0300" channel="Canal teleSUR">
+  <programme start="20210730230000 -0400" stop="20210730230500 -0400" channel="Canal teleSUR">
     <title lang="es">Titulares En Vivo</title>
   </programme>
-  <programme start="20210730230500 -0300" stop="20210731000000 -0300" channel="Canal teleSUR">
+  <programme start="20210730230500 -0400" stop="20210731000000 -0400" channel="Canal teleSUR">
     <title lang="es">Jugada crítica</title>
   </programme>
-  <programme start="20210730003000 -0300" stop="20210730013000 -0300" channel="Canal TV Chile">
+  <programme start="20210730003000 -0400" stop="20210730013000 -0400" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210730013000 -0300" stop="20210730023000 -0300" channel="Canal TV Chile">
+  <programme start="20210730013000 -0400" stop="20210730023000 -0400" channel="Canal TV Chile">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20210730023000 -0300" stop="20210730030000 -0300" channel="Canal TV Chile">
+  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal TV Chile">
     <title lang="es">Medianoche</title>
   </programme>
-  <programme start="20210730030000 -0300" stop="20210730043000 -0300" channel="Canal TV Chile">
+  <programme start="20210730030000 -0400" stop="20210730043000 -0400" channel="Canal TV Chile">
     <title lang="es">Sin parche</title>
   </programme>
-  <programme start="20210730043000 -0300" stop="20210730052500 -0300" channel="Canal TV Chile">
+  <programme start="20210730043000 -0400" stop="20210730052500 -0400" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210730052500 -0300" stop="20210730060000 -0300" channel="Canal TV Chile">
+  <programme start="20210730052500 -0400" stop="20210730060000 -0400" channel="Canal TV Chile">
     <title lang="es">¿Cuál es tu huella</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730073000 -0300" channel="Canal TV Chile">
+  <programme start="20210730060000 -0400" stop="20210730073000 -0400" channel="Canal TV Chile">
     <title lang="es">Sin parche</title>
   </programme>
-  <programme start="20210730073000 -0300" stop="20210730090000 -0300" channel="Canal TV Chile">
+  <programme start="20210730073000 -0400" stop="20210730090000 -0400" channel="Canal TV Chile">
     <title lang="es">Zoom: Grandes momentos del deporte</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730120000 -0300" channel="Canal TV Chile">
+  <programme start="20210730090000 -0400" stop="20210730120000 -0400" channel="Canal TV Chile">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730143000 -0300" channel="Canal TV Chile">
+  <programme start="20210730120000 -0400" stop="20210730143000 -0400" channel="Canal TV Chile">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20210730143000 -0300" stop="20210730153000 -0300" channel="Canal TV Chile">
+  <programme start="20210730143000 -0400" stop="20210730153000 -0400" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20210730153000 -0300" stop="20210730160000 -0300" channel="Canal TV Chile">
+  <programme start="20210730153000 -0400" stop="20210730160000 -0400" channel="Canal TV Chile">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730163000 -0300" channel="Canal TV Chile">
+  <programme start="20210730160000 -0400" stop="20210730163000 -0400" channel="Canal TV Chile">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210730163000 -0300" stop="20210730180000 -0300" channel="Canal TV Chile">
+  <programme start="20210730163000 -0400" stop="20210730180000 -0400" channel="Canal TV Chile">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20210730180000 -0300" stop="20210730184500 -0300" channel="Canal TV Chile">
+  <programme start="20210730180000 -0400" stop="20210730184500 -0400" channel="Canal TV Chile">
     <title lang="es">Noticias 24</title>
   </programme>
-  <programme start="20210730184500 -0300" stop="20210730191500 -0300" channel="Canal TV Chile">
+  <programme start="20210730184500 -0400" stop="20210730191500 -0400" channel="Canal TV Chile">
     <title lang="es">Romané</title>
   </programme>
-  <programme start="20210730191500 -0300" stop="20210730200000 -0300" channel="Canal TV Chile">
+  <programme start="20210730191500 -0400" stop="20210730200000 -0400" channel="Canal TV Chile">
     <title lang="es">Rompecorazón</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730214000 -0300" channel="Canal TV Chile">
+  <programme start="20210730200000 -0400" stop="20210730214000 -0400" channel="Canal TV Chile">
     <title lang="es">24 Horas Central</title>
   </programme>
-  <programme start="20210730214000 -0300" stop="20210730224500 -0300" channel="Canal TV Chile">
+  <programme start="20210730214000 -0400" stop="20210730224500 -0400" channel="Canal TV Chile">
     <title lang="es">Retro</title>
   </programme>
-  <programme start="20210730224500 -0300" stop="20210730234500 -0300" channel="Canal TV Chile">
+  <programme start="20210730224500 -0400" stop="20210730234500 -0400" channel="Canal TV Chile">
     <title lang="es">Romané</title>
   </programme>
-  <programme start="20210730234500 -0300" stop="20210731020000 -0300" channel="Canal TV Chile">
+  <programme start="20210730234500 -0400" stop="20210731020000 -0400" channel="Canal TV Chile">
     <title lang="es">Rompecorazón</title>
   </programme>
-  <programme start="20210730010000 -0300" stop="20210730014500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730010000 -0400" stop="20210730014500 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Medianoche</title>
   </programme>
-  <programme start="20210730014500 -0300" stop="20210730020000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730014500 -0400" stop="20210730020000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">TV Tiempo</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730050000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730020000 -0400" stop="20210730050000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20210730050000 -0300" stop="20210730090000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730050000 -0400" stop="20210730090000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Juegos olímpicos Tokio 2020 AM</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730120000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730090000 -0400" stop="20210730120000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20210730120000 -0300" stop="20210730142500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730120000 -0400" stop="20210730142500 -0400" channel="Canal TVN (Chile)">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20210730142500 -0300" stop="20210730153500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730142500 -0400" stop="20210730153500 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Rompecorazón</title>
   </programme>
-  <programme start="20210730153500 -0300" stop="20210730162000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730153500 -0400" stop="20210730162000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Romané</title>
   </programme>
-  <programme start="20210730162000 -0300" stop="20210730174500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730162000 -0400" stop="20210730174500 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20210730174500 -0300" stop="20210730181500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730174500 -0400" stop="20210730181500 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Almas Heridas</title>
   </programme>
-  <programme start="20210730181500 -0300" stop="20210730200000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730181500 -0400" stop="20210730200000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Juegos olímpicos Tokio 2020 PM</title>
   </programme>
-  <programme start="20210730200000 -0300" stop="20210730213500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730200000 -0400" stop="20210730213500 -0400" channel="Canal TVN (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210730213500 -0300" stop="20210730214000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730213500 -0400" stop="20210730214000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">TV Tiempo</title>
   </programme>
-  <programme start="20210730214000 -0300" stop="20210731000000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20210730214000 -0400" stop="20210731000000 -0400" channel="Canal TVN (Chile)">
     <title lang="es">Juegos olímpicos Tokio 2020 Prime</title>
   </programme>
-  <programme start="20210730002000 -0300" stop="20210730011000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730002000 -0400" stop="20210730011000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago P.D</title>
   </programme>
-  <programme start="20210730011000 -0300" stop="20210730020000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730011000 -0400" stop="20210730020000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">House M.D</title>
   </programme>
-  <programme start="20210730020000 -0300" stop="20210730025000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730020000 -0400" stop="20210730025000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">House M.D</title>
   </programme>
-  <programme start="20210730025000 -0300" stop="20210730034000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730025000 -0400" stop="20210730034000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago P.D</title>
   </programme>
-  <programme start="20210730034000 -0300" stop="20210730051500 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730034000 -0400" stop="20210730051500 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Mi novia Polly</title>
   </programme>
-  <programme start="20210730051500 -0300" stop="20210730060000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730051500 -0400" stop="20210730060000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Close Up with the Hollywood Reporter</title>
   </programme>
-  <programme start="20210730060000 -0300" stop="20210730090000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730060000 -0400" stop="20210730090000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210730090000 -0300" stop="20210730091500 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730090000 -0400" stop="20210730091500 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Close Up with the Hollywood Reporter</title>
   </programme>
-  <programme start="20210730091500 -0300" stop="20210730101000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730091500 -0400" stop="20210730101000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago Med</title>
   </programme>
-  <programme start="20210730101000 -0300" stop="20210730110500 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730101000 -0400" stop="20210730110500 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago Med</title>
   </programme>
-  <programme start="20210730110500 -0300" stop="20210730130000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730110500 -0400" stop="20210730130000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Experta en bodas</title>
   </programme>
-  <programme start="20210730130000 -0300" stop="20210730140000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730130000 -0400" stop="20210730140000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-  <programme start="20210730140000 -0300" stop="20210730150000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730140000 -0400" stop="20210730150000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-  <programme start="20210730150000 -0300" stop="20210730160000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730150000 -0400" stop="20210730160000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-  <programme start="20210730160000 -0300" stop="20210730165000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730160000 -0400" stop="20210730165000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago Fire</title>
   </programme>
-  <programme start="20210730165000 -0300" stop="20210730174000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730165000 -0400" stop="20210730174000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago Fire</title>
   </programme>
-  <programme start="20210730174000 -0300" stop="20210730183000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730174000 -0400" stop="20210730183000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago P.D</title>
   </programme>
-  <programme start="20210730183000 -0300" stop="20210730192000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730183000 -0400" stop="20210730192000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago P.D</title>
   </programme>
-  <programme start="20210730192000 -0300" stop="20210730201000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730192000 -0400" stop="20210730201000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-  <programme start="20210730201000 -0300" stop="20210730210000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730201000 -0400" stop="20210730210000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-  <programme start="20210730210000 -0300" stop="20210730215000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730210000 -0400" stop="20210730215000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-  <programme start="20210730215000 -0300" stop="20210730224000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730215000 -0400" stop="20210730224000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">La forense</title>
   </programme>
-  <programme start="20210730224000 -0300" stop="20210730233000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730224000 -0400" stop="20210730233000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Evil</title>
   </programme>
-  <programme start="20210730233000 -0300" stop="20210731014000 -0300" channel="Canal Universal TV (Panregional)">
+  <programme start="20210730233000 -0400" stop="20210731014000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Jurassic World: Mundo Jurásico</title>
   </programme>
 </tv>
