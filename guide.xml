@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal ¡HOLA! TV">
+    <display-name lang="es">Canal ¡HOLA! TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal 24 Horas (Chile)">
     <display-name lang="es">Canal 24 Horas (Chile)</display-name>
     <url>http://www.gatotv.com</url>
@@ -8,16 +12,20 @@
     <display-name lang="es">Canal Animal Planet (México)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Boomerang (México)">
+    <display-name lang="es">Canal Boomerang (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal CNN Chile">
     <display-name lang="es">Canal CNN Chile</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal DW (Latinoamérica)">
-    <display-name lang="es">Canal DW (Latinoamérica)</display-name>
+  <channel id="Canal DHE">
+    <display-name lang="es">Canal DHE</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Estrella TV ">
-    <display-name lang="es">Canal Estrella TV </display-name>
+  <channel id="Canal DW (Latinoamérica)">
+    <display-name lang="es">Canal DW (Latinoamérica)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Euronews">
@@ -44,6 +52,10 @@
     <display-name lang="es">Canal Señal Colombia</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Telemundo (México)">
+    <display-name lang="es">Canal Telemundo (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal teleSUR">
     <display-name lang="es">Canal teleSUR</display-name>
     <url>http://www.gatotv.com</url>
@@ -60,6 +72,499 @@
     <display-name lang="es">Canal Universal TV (Panregional)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Win Sports">
+    <display-name lang="es">Canal Win Sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Happy &amp; Zen</title>
+  </programme>
+  <programme start="20210730020000 -0400" stop="20210730023000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20210730030000 -0400" stop="20210730040000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20210730040000 -0400" stop="20210730053000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210730053000 -0400" stop="20210730060000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20210730060000 -0400" stop="20210730073000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210730073000 -0400" stop="20210730080000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Ir al baño a menudo</title>
+  </programme>
+  <programme start="20210730080000 -0400" stop="20210730083000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210730083000 -0400" stop="20210730090000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210730090000 -0400" stop="20210730093000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210730093000 -0400" stop="20210730100000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Paint Zoom - La Espectacular y Poderosa Pistola para Pintar</title>
+  </programme>
+  <programme start="20210730100000 -0400" stop="20210730110000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20210730110000 -0400" stop="20210730123000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210730123000 -0400" stop="20210730130000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20210730130000 -0400" stop="20210730133000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20210730133000 -0400" stop="20210730140000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Happy &amp; Zen</title>
+  </programme>
+  <programme start="20210730140000 -0400" stop="20210730143000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Subastas de Lujo</title>
+  </programme>
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210730150000 -0400" stop="20210730160000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi casa trendy</title>
+  </programme>
+  <programme start="20210730160000 -0400" stop="20210730163000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">#HolaTV</title>
+  </programme>
+  <programme start="20210730163000 -0400" stop="20210730170000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Subastas de Lujo</title>
+  </programme>
+  <programme start="20210730170000 -0400" stop="20210730173000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210730173000 -0400" stop="20210730180000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20210730180000 -0400" stop="20210730183000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion Style</title>
+  </programme>
+  <programme start="20210730183000 -0400" stop="20210730190000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">El chef de las estrellas: Neill Anthony</title>
+  </programme>
+  <programme start="20210730190000 -0400" stop="20210730200000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20210730200000 -0400" stop="20210730213000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210730213000 -0400" stop="20210730223000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas Señoriales</title>
+  </programme>
+  <programme start="20210730223000 -0400" stop="20210730230000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20210730230000 -0400" stop="20210731003000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210731003000 -0400" stop="20210731013000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas Señoriales</title>
+  </programme>
+  <programme start="20210731013000 -0400" stop="20210731020000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20210731020000 -0400" stop="20210731030000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas Señoriales</title>
+  </programme>
+  <programme start="20210731030000 -0400" stop="20210731040000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20210731040000 -0400" stop="20210731053000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210731053000 -0400" stop="20210731060000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20210731060000 -0400" stop="20210731063000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210731063000 -0400" stop="20210731070000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210731070000 -0400" stop="20210731073000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210731073000 -0400" stop="20210731080000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20210731080000 -0400" stop="20210731083000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Ideal Prostate+ proporciona alivio natural seguro</title>
+  </programme>
+  <programme start="20210731083000 -0400" stop="20210731090000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210731090000 -0400" stop="20210731093000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210731093000 -0400" stop="20210731100000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210731100000 -0400" stop="20210731103000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210731103000 -0400" stop="20210731123000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20210731123000 -0400" stop="20210731130000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Starlite 2021</title>
+  </programme>
+  <programme start="20210731130000 -0400" stop="20210731143000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210731143000 -0400" stop="20210731153000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas Señoriales</title>
+  </programme>
+  <programme start="20210731153000 -0400" stop="20210731163000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi casa trendy</title>
+  </programme>
+  <programme start="20210731163000 -0400" stop="20210731170000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20210731170000 -0400" stop="20210731190000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20210731190000 -0400" stop="20210731193000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">El chef de las estrellas: Neill Anthony</title>
+  </programme>
+  <programme start="20210731193000 -0400" stop="20210731200000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20210731200000 -0400" stop="20210731203000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20210731203000 -0400" stop="20210731210000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20210731210000 -0400" stop="20210731213000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Grandes crónicas de HOLA</title>
+  </programme>
+  <programme start="20210731213000 -0400" stop="20210731223000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Especiales ¡HOLA! TV</title>
+  </programme>
+  <programme start="20210731223000 -0400" stop="20210801000000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">El Rey</title>
+  </programme>
+  <programme start="20210801000000 -0400" stop="20210801010000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20210801010000 -0400" stop="20210801013000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20210801013000 -0400" stop="20210801030000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">El Rey</title>
+  </programme>
+  <programme start="20210801030000 -0400" stop="20210801040000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Especiales ¡HOLA! TV</title>
+  </programme>
+  <programme start="20210801040000 -0400" stop="20210801043000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Grandes crónicas de HOLA</title>
+  </programme>
+  <programme start="20210801043000 -0400" stop="20210801050000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20210801050000 -0400" stop="20210801053000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20210801053000 -0400" stop="20210801060000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20210801060000 -0400" stop="20210801080000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20210801080000 -0400" stop="20210801083000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">El secreto natural de la salud masculina para una próstata sana</title>
+  </programme>
+  <programme start="20210801103000 -0400" stop="20210801110000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210801110000 -0400" stop="20210801113000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210801113000 -0400" stop="20210801120000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210801120000 -0400" stop="20210801123000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210801123000 -0400" stop="20210801130000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Grandes crónicas de HOLA</title>
+  </programme>
+  <programme start="20210801130000 -0400" stop="20210801133000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">El chef de las estrellas: Neill Anthony</title>
+  </programme>
+  <programme start="20210801133000 -0400" stop="20210801140000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Starlite 2021</title>
+  </programme>
+  <programme start="20210801140000 -0400" stop="20210801143000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20210801143000 -0400" stop="20210801150000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20210801150000 -0400" stop="20210801160000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Moda</title>
+  </programme>
+  <programme start="20210801160000 -0400" stop="20210801163000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20210801163000 -0400" stop="20210801180000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">El Rey</title>
+  </programme>
+  <programme start="20210801180000 -0400" stop="20210801190000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Especiales ¡HOLA! TV</title>
+  </programme>
+  <programme start="20210801190000 -0400" stop="20210801193000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La boutique del glamour</title>
+  </programme>
+  <programme start="20210801193000 -0400" stop="20210801200000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Starlite 2021</title>
+  </programme>
+  <programme start="20210801200000 -0400" stop="20210801213000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Rocío Durcal, volver a verte</title>
+  </programme>
+  <programme start="20210801213000 -0400" stop="20210801230000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Rocío Durcal, volver a verte</title>
+  </programme>
+  <programme start="20210801230000 -0400" stop="20210802003000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Rocío Durcal, volver a verte</title>
+  </programme>
+  <programme start="20210802003000 -0400" stop="20210802020000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Rocío Durcal, volver a verte</title>
+  </programme>
+  <programme start="20210803003000 -0400" stop="20210803020000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Rocío Durcal, volver a verte</title>
+  </programme>
+  <programme start="20210803020000 -0400" stop="20210803023000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20210803023000 -0400" stop="20210803030000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La boutique del glamour</title>
+  </programme>
+  <programme start="20210803030000 -0400" stop="20210803033000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Starlite 2021</title>
+  </programme>
+  <programme start="20210803033000 -0400" stop="20210803040000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20210803040000 -0400" stop="20210803060000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20210803060000 -0400" stop="20210803073000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210803073000 -0400" stop="20210803083000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Hola LA</title>
+  </programme>
+  <programme start="20210803083000 -0400" stop="20210803090000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vídeo Fashion - Specials</title>
+  </programme>
+  <programme start="20210803090000 -0400" stop="20210803093000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210803093000 -0400" stop="20210803100000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion: Designers</title>
+  </programme>
+  <programme start="20210803100000 -0400" stop="20210803113000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210803113000 -0400" stop="20210803123000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210803123000 -0400" stop="20210803130000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20210803130000 -0400" stop="20210803133000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210803133000 -0400" stop="20210803140000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Estrellas en Estilo</title>
+  </programme>
+  <programme start="20210803140000 -0400" stop="20210803143000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡Hola! Cinema</title>
+  </programme>
+  <programme start="20210803143000 -0400" stop="20210803150000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vídeo Fashion - Specials</title>
+  </programme>
+  <programme start="20210803150000 -0400" stop="20210803160000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Especiales Realeza</title>
+  </programme>
+  <programme start="20210803160000 -0400" stop="20210803163000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Una Vida de Lujo</title>
+  </programme>
+  <programme start="20210803163000 -0400" stop="20210803170000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Cara a Cara con Mario López</title>
+  </programme>
+  <programme start="20210803170000 -0400" stop="20210803173000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas diseño y estilo</title>
+  </programme>
+  <programme start="20210803173000 -0400" stop="20210803180000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Estrellas en Estilo</title>
+  </programme>
+  <programme start="20210803180000 -0400" stop="20210803183000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion News</title>
+  </programme>
+  <programme start="20210803183000 -0400" stop="20210803190000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210803190000 -0400" stop="20210803193000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Estrellas en Estilo</title>
+  </programme>
+  <programme start="20210803193000 -0400" stop="20210803203000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210803203000 -0400" stop="20210803220000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210803220000 -0400" stop="20210803230000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Moda</title>
+  </programme>
+  <programme start="20210803230000 -0400" stop="20210803233000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Estrellas en Estilo</title>
+  </programme>
+  <programme start="20210803233000 -0400" stop="20210804010000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210804010000 -0400" stop="20210804020000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Moda</title>
+  </programme>
+  <programme start="20210804020000 -0400" stop="20210804030000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20210804030000 -0400" stop="20210804040000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Especiales Realeza</title>
+  </programme>
+  <programme start="20210804053000 -0400" stop="20210804060000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Estrellas en Estilo</title>
+  </programme>
+  <programme start="20210804073000 -0400" stop="20210804083000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Hola LA</title>
+  </programme>
+  <programme start="20210804083000 -0400" stop="20210804090000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vídeo Fashion - Specials</title>
+  </programme>
+  <programme start="20210804090000 -0400" stop="20210804093000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20210804093000 -0400" stop="20210804100000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion: Designers</title>
+  </programme>
+  <programme start="20210804100000 -0400" stop="20210804113000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210804113000 -0400" stop="20210804123000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210804123000 -0400" stop="20210804130000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20210804130000 -0400" stop="20210804133000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210804133000 -0400" stop="20210804140000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Estrellas en Estilo</title>
+  </programme>
+  <programme start="20210804140000 -0400" stop="20210804143000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Conexión ¡HOLA! TV</title>
+  </programme>
+  <programme start="20210804143000 -0400" stop="20210804150000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vídeo Fashion - Specials</title>
+  </programme>
+  <programme start="20210804150000 -0400" stop="20210804160000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡Hola! TV Iconos</title>
+  </programme>
+  <programme start="20210804160000 -0400" stop="20210804163000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Una Vida de Lujo</title>
+  </programme>
+  <programme start="20210804163000 -0400" stop="20210804170000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Cara a Cara con Mario López</title>
+  </programme>
+  <programme start="20210804170000 -0400" stop="20210804173000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas diseño y estilo</title>
+  </programme>
+  <programme start="20210804173000 -0400" stop="20210804180000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Estrellas en Estilo</title>
+  </programme>
+  <programme start="20210804180000 -0400" stop="20210804183000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion News</title>
+  </programme>
+  <programme start="20210804183000 -0400" stop="20210804190000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20210804190000 -0400" stop="20210804193000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Conexión ¡HOLA! TV</title>
+  </programme>
+  <programme start="20210804193000 -0400" stop="20210804203000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210804203000 -0400" stop="20210804220000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210804220000 -0400" stop="20210804230000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210804230000 -0400" stop="20210804233000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Conexión ¡HOLA! TV</title>
+  </programme>
+  <programme start="20210804233000 -0400" stop="20210805010000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210805010000 -0400" stop="20210805020000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210805020000 -0400" stop="20210805030000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210805030000 -0400" stop="20210805040000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210805053000 -0400" stop="20210805060000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Conexión ¡HOLA! TV</title>
+  </programme>
+  <programme start="20210805140000 -0400" stop="20210805143000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vidas Reales</title>
+  </programme>
+  <programme start="20210805150000 -0400" stop="20210805160000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Un Nuevo Look Para una Nueva Vida</title>
+  </programme>
+  <programme start="20210805190000 -0400" stop="20210805193000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vidas Reales</title>
+  </programme>
+  <programme start="20210805220000 -0400" stop="20210805230000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210805230000 -0400" stop="20210805233000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vidas Reales</title>
+  </programme>
+  <programme start="20210806010000 -0400" stop="20210806020000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20210806020000 -0400" stop="20210806023000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20210806023000 -0400" stop="20210806030000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20210806030000 -0400" stop="20210806033000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20210806033000 -0400" stop="20210806040000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Joyas Reales</title>
+  </programme>
+  <programme start="20210806053000 -0400" stop="20210806060000 -0400" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vidas Reales</title>
+  </programme>
   <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
@@ -240,9 +745,6 @@
   <programme start="20210801003000 -0400" stop="20210801010000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210801040000 -0400" stop="20210801043000 -0400" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
   <programme start="20210801063000 -0400" stop="20210801070000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
@@ -317,6 +819,9 @@
   </programme>
   <programme start="20210802123000 -0400" stop="20210802130000 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">Más motor</title>
+  </programme>
+  <programme start="20210802130000 -0400" stop="20210802153000 -0400" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Tarde</title>
   </programme>
   <programme start="20210802153000 -0400" stop="20210802154500 -0400" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Cuadros</title>
@@ -780,6 +1285,222 @@
   <programme start="20210807001900 -0400" stop="20210807011200 -0400" channel="Canal Animal Planet (México)">
     <title lang="es">Solo y en peligro</title>
   </programme>
+  <programme start="20210730020000 -0400" stop="20210730030000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20210730030000 -0400" stop="20210730040000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20210730040000 -0400" stop="20210730043000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20210730050000 -0400" stop="20210730060000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Bunnicula, el conejo vampiro</title>
+  </programme>
+  <programme start="20210730060000 -0400" stop="20210730070000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20210730070000 -0400" stop="20210730080000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20210730080000 -0400" stop="20210730090000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20210730090000 -0400" stop="20210730100000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20210730100000 -0400" stop="20210730103000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20210730103000 -0400" stop="20210730110000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El Show de Peabody y Sherman</title>
+  </programme>
+  <programme start="20210730110000 -0400" stop="20210730120000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
+  </programme>
+  <programme start="20210730120000 -0400" stop="20210730123000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mónica y su pandilla</title>
+  </programme>
+  <programme start="20210730123000 -0400" stop="20210730130000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20210730130000 -0400" stop="20210730133000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20210730133000 -0400" stop="20210730140000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20210730140000 -0400" stop="20210730143000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Dorothy y el Mago de Oz</title>
+  </programme>
+  <programme start="20210730150000 -0400" stop="20210730153000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20210730153000 -0400" stop="20210730163000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20210730163000 -0400" stop="20210730170000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Los autos locos</title>
+  </programme>
+  <programme start="20210730170000 -0400" stop="20210730173000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210730173000 -0400" stop="20210730180000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">LEGO Friends Chicas</title>
+  </programme>
+  <programme start="20210730180000 -0400" stop="20210730183000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20210730183000 -0400" stop="20210730190000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20210730190000 -0400" stop="20210730200000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
+  </programme>
+  <programme start="20210730200000 -0400" stop="20210730201500 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20210730201500 -0400" stop="20210730204500 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210730204500 -0400" stop="20210730210000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20210730210000 -0400" stop="20210730213000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210730213000 -0400" stop="20210730220000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20210730220000 -0400" stop="20210730223000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20210730223000 -0400" stop="20210730230000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20210730230000 -0400" stop="20210731000000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20210731000000 -0400" stop="20210731010000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Bunnicula, el conejo vampiro</title>
+  </programme>
+  <programme start="20210731080000 -0400" stop="20210731090000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El Show de Peabody y Sherman</title>
+  </programme>
+  <programme start="20210731090000 -0400" stop="20210731093000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20210731093000 -0400" stop="20210731100000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20210731100000 -0400" stop="20210731110000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20210731110000 -0400" stop="20210731113000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20210731113000 -0400" stop="20210731120000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20210731120000 -0400" stop="20210731130000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
+  </programme>
+  <programme start="20210731130000 -0400" stop="20210731133000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mónica y su pandilla</title>
+  </programme>
+  <programme start="20210731133000 -0400" stop="20210731140000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20210731140000 -0400" stop="20210731153000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Scooby Doo Wrestlemania</title>
+  </programme>
+  <programme start="20210731153000 -0400" stop="20210731160000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20210731160000 -0400" stop="20210731170000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20210731180000 -0400" stop="20210731183000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20210731183000 -0400" stop="20210731190000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mighty Mike</title>
+  </programme>
+  <programme start="20210731190000 -0400" stop="20210731193000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Los autos locos</title>
+  </programme>
+  <programme start="20210731193000 -0400" stop="20210731203000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20210731203000 -0400" stop="20210731210000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210731210000 -0400" stop="20210731213000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Dorothy y el Mago de Oz</title>
+  </programme>
+  <programme start="20210731213000 -0400" stop="20210731220000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20210731220000 -0400" stop="20210731223000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20210731223000 -0400" stop="20210731233000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">New Looney Tunes</title>
+  </programme>
+  <programme start="20210731233000 -0400" stop="20210801010000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20210801010000 -0400" stop="20210801020000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby-Doo</title>
+  </programme>
+  <programme start="20210801120000 -0400" stop="20210801130000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20210801140000 -0400" stop="20210801154500 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Los Osos Boonie Fantástica</title>
+  </programme>
+  <programme start="20210801154500 -0400" stop="20210801160000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20210802010000 -0400" stop="20210802020000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20210802110000 -0400" stop="20210802120000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20210802140000 -0400" stop="20210802143000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20210802190000 -0400" stop="20210802200000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  </programme>
+  <programme start="20210802200000 -0400" stop="20210802201500 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Ninja Express</title>
+  </programme>
+  <programme start="20210802201500 -0400" stop="20210802203000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Gui &amp; Estopa</title>
+  </programme>
+  <programme start="20210802203000 -0400" stop="20210802210000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20210803200000 -0400" stop="20210803201500 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Taffy</title>
+  </programme>
+  <programme start="20210803201500 -0400" stop="20210803203000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">Mighty Mike</title>
+  </programme>
+  <programme start="20210804200000 -0400" stop="20210804201500 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">LEGO Friends Chicas</title>
+  </programme>
+  <programme start="20210804201500 -0400" stop="20210804203000 -0400" channel="Canal Boomerang (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
   <programme start="20210730013000 -0400" stop="20210730023000 -0400" channel="Canal CNN Chile">
     <title lang="es">Aquí se Debate</title>
   </programme>
@@ -1023,6 +1744,9 @@
   <programme start="20210802050000 -0400" stop="20210802053000 -0400" channel="Canal CNN Chile">
     <title lang="es">Desafio Tierra</title>
   </programme>
+  <programme start="20210802130000 -0400" stop="20210802153000 -0400" channel="Canal CNN Chile">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
   <programme start="20210802153000 -0400" stop="20210802163000 -0400" channel="Canal CNN Chile">
     <title lang="es">Influyentes</title>
   </programme>
@@ -1034,6 +1758,78 @@
   </programme>
   <programme start="20210802190000 -0400" stop="20210802200000 -0400" channel="Canal CNN Chile">
     <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210730025000 -0400" stop="20210730044500 -0400" channel="Canal DHE">
+    <title lang="es">Inmortales</title>
+  </programme>
+  <programme start="20210730044500 -0400" stop="20210730063000 -0400" channel="Canal DHE">
+    <title lang="es">El Secuestro Del Señor Heineken</title>
+  </programme>
+  <programme start="20210730063000 -0400" stop="20210730070000 -0400" channel="Canal DHE">
+    <title lang="es">El Lugar Bueno</title>
+  </programme>
+  <programme start="20210730070000 -0400" stop="20210730084000 -0400" channel="Canal DHE">
+    <title lang="es">Punto de ruptura</title>
+  </programme>
+  <programme start="20210730084000 -0400" stop="20210730103000 -0400" channel="Canal DHE">
+    <title lang="es">El último virrey</title>
+  </programme>
+  <programme start="20210730103000 -0400" stop="20210730120500 -0400" channel="Canal DHE">
+    <title lang="es">Anoche</title>
+  </programme>
+  <programme start="20210730120500 -0400" stop="20210730134500 -0400" channel="Canal DHE">
+    <title lang="es">Golpe y fuga</title>
+  </programme>
+  <programme start="20210730134500 -0400" stop="20210730153500 -0400" channel="Canal DHE">
+    <title lang="es">Sin Límites</title>
+  </programme>
+  <programme start="20210730153500 -0400" stop="20210730171500 -0400" channel="Canal DHE">
+    <title lang="es">Los elegidos</title>
+  </programme>
+  <programme start="20210730171500 -0400" stop="20210730185000 -0400" channel="Canal DHE">
+    <title lang="es">La evidencia</title>
+  </programme>
+  <programme start="20210730185000 -0400" stop="20210730210500 -0400" channel="Canal DHE">
+    <title lang="es">Diré tu nombre</title>
+  </programme>
+  <programme start="20210730210500 -0400" stop="20210730224500 -0400" channel="Canal DHE">
+    <title lang="es">Fuego con fuego</title>
+  </programme>
+  <programme start="20210730224500 -0400" stop="20210731002500 -0400" channel="Canal DHE">
+    <title lang="es">Bajo la arena</title>
+  </programme>
+  <programme start="20210731002500 -0400" stop="20210731031500 -0400" channel="Canal DHE">
+    <title lang="es">Carlos</title>
+  </programme>
+  <programme start="20210731031500 -0400" stop="20210731052500 -0400" channel="Canal DHE">
+    <title lang="es">Promesa al Amanecer</title>
+  </programme>
+  <programme start="20210731052500 -0400" stop="20210731070000 -0400" channel="Canal DHE">
+    <title lang="es">El pequeño fantasma</title>
+  </programme>
+  <programme start="20210731070000 -0400" stop="20210731083500 -0400" channel="Canal DHE">
+    <title lang="es">Dos pavos en apuros</title>
+  </programme>
+  <programme start="20210731083500 -0400" stop="20210731100000 -0400" channel="Canal DHE">
+    <title lang="es">Ploey</title>
+  </programme>
+  <programme start="20210731100000 -0400" stop="20210731120000 -0400" channel="Canal DHE">
+    <title lang="es">Chef a domicilio</title>
+  </programme>
+  <programme start="20210731120000 -0400" stop="20210731133000 -0400" channel="Canal DHE">
+    <title lang="es">Albatross</title>
+  </programme>
+  <programme start="20210731133000 -0400" stop="20210731151000 -0400" channel="Canal DHE">
+    <title lang="es">La piel de Venus</title>
+  </programme>
+  <programme start="20210731151000 -0400" stop="20210731171500 -0400" channel="Canal DHE">
+    <title lang="es">Feliz y afortunada</title>
+  </programme>
+  <programme start="20210731171500 -0400" stop="20210731185500 -0400" channel="Canal DHE">
+    <title lang="es">Historias de Ultratumba</title>
+  </programme>
+  <programme start="20210731185500 -0400" stop="20210731210000 -0400" channel="Canal DHE">
+    <title lang="es">Un maldito policía en Nueva Orleans</title>
   </programme>
   <programme start="20210730011500 -0400" stop="20210730020000 -0400" channel="Canal DW (Latinoamérica)">
     <title lang="es">Los sumideros del poder: Cum-Ex, un escándalo fiscal multimillonario</title>
@@ -2063,285 +2859,6 @@
   </programme>
   <programme start="20210806003000 -0400" stop="20210806010000 -0400" channel="Canal DW (Latinoamérica)">
     <title lang="es">Cultura.21</title>
-  </programme>
-  <programme start="20210730013000 -0400" stop="20210730020000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730020000 -0400" stop="20210730023000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730023000 -0400" stop="20210730030000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730030000 -0400" stop="20210730033000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730033000 -0400" stop="20210730040000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730040000 -0400" stop="20210730043000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730050000 -0400" stop="20210730053000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730053000 -0400" stop="20210730060000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730060000 -0400" stop="20210730063000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210730063000 -0400" stop="20210730070000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Cantinflas Show</title>
-  </programme>
-  <programme start="20210730070000 -0400" stop="20210730073000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">En vivo</title>
-  </programme>
-  <programme start="20210730073000 -0400" stop="20210730080000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Noticiero: Cierre de edición</title>
-  </programme>
-  <programme start="20210730080000 -0400" stop="20210730100000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">La loca de la casa</title>
-  </programme>
-  <programme start="20210730100000 -0400" stop="20210730120000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Víctimas de la Pobreza</title>
-  </programme>
-  <programme start="20210730120000 -0400" stop="20210730130000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">100 latinos dijeron</title>
-  </programme>
-  <programme start="20210730130000 -0400" stop="20210730140000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">100 latinos dijeron</title>
-  </programme>
-  <programme start="20210730140000 -0400" stop="20210730150000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">I Testigo</title>
-  </programme>
-  <programme start="20210730150000 -0400" stop="20210730160000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Tengo talento, mucho talento</title>
-  </programme>
-  <programme start="20210730160000 -0400" stop="20210730170000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Tu-Night con Omar Chaparro</title>
-  </programme>
-  <programme start="20210730170000 -0400" stop="20210730173000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210730173000 -0400" stop="20210730180000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Noticiero Estrella TV</title>
-  </programme>
-  <programme start="20210730180000 -0400" stop="20210730190000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Chisme en vivo</title>
-  </programme>
-  <programme start="20210730190000 -0400" stop="20210730200000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">100 latinos dijeron</title>
-  </programme>
-  <programme start="20210730200000 -0400" stop="20210730203000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Alarma TV</title>
-  </programme>
-  <programme start="20210730203000 -0400" stop="20210730210000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Noticiero: Cierre de edición</title>
-  </programme>
-  <programme start="20210730210000 -0400" stop="20210730213000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Alarma TV</title>
-  </programme>
-  <programme start="20210730213000 -0400" stop="20210730220000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210730220000 -0400" stop="20210731000000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Eric León vs. Juan Marcos Rodríguez</title>
-  </programme>
-  <programme start="20210731000000 -0400" stop="20210731003000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731003000 -0400" stop="20210731010000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731013000 -0400" stop="20210731020000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Aliméntese con comidas fáciles y saludables con el Bravo XL Smart Oven</title>
-  </programme>
-  <programme start="20210731040000 -0400" stop="20210731043000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731063000 -0400" stop="20210731070000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Cantinflas Show</title>
-  </programme>
-  <programme start="20210731070000 -0400" stop="20210731073000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731073000 -0400" stop="20210731080000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731080000 -0400" stop="20210731083000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731083000 -0400" stop="20210731090000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731090000 -0400" stop="20210731093000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731093000 -0400" stop="20210731100000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731100000 -0400" stop="20210731103000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731103000 -0400" stop="20210731110000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731110000 -0400" stop="20210731113000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731113000 -0400" stop="20210731120000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210731120000 -0400" stop="20210731130000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">¡Ahora caigo</title>
-  </programme>
-  <programme start="20210731130000 -0400" stop="20210731150000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Karma</title>
-  </programme>
-  <programme start="20210731150000 -0400" stop="20210731170000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">El Mudo... Con el Poder en las Manos</title>
-  </programme>
-  <programme start="20210731170000 -0400" stop="20210731180000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Chisme en vivo. Fin de semana</title>
-  </programme>
-  <programme start="20210731180000 -0400" stop="20210731183000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210731183000 -0400" stop="20210731190000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210731190000 -0400" stop="20210731210000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Sábados de Concierto</title>
-  </programme>
-  <programme start="20210731210000 -0400" stop="20210731220000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Tu-Night con Omar Chaparro</title>
-  </programme>
-  <programme start="20210731220000 -0400" stop="20210731230000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Comedy Central presenta... Una noche de comedia</title>
-  </programme>
-  <programme start="20210731230000 -0400" stop="20210731233000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Alarma TV</title>
-  </programme>
-  <programme start="20210731233000 -0400" stop="20210801000000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Escorpión al volante</title>
-  </programme>
-  <programme start="20210801000000 -0400" stop="20210801003000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210801003000 -0400" stop="20210801010000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210801063000 -0400" stop="20210801070000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210801130000 -0400" stop="20210801170000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Charreadas en Fuego</title>
-  </programme>
-  <programme start="20210801170000 -0400" stop="20210801180000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">100 latinos dijeron</title>
-  </programme>
-  <programme start="20210801180000 -0400" stop="20210801183000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210801183000 -0400" stop="20210801190000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210801190000 -0400" stop="20210801200000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Tengo talento, mucho talento</title>
-  </programme>
-  <programme start="20210801200000 -0400" stop="20210801220000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">La llorona</title>
-  </programme>
-  <programme start="20210801220000 -0400" stop="20210801223000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">La Familia del Barrio</title>
-  </programme>
-  <programme start="20210801223000 -0400" stop="20210801230000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">La Familia del Barrio</title>
-  </programme>
-  <programme start="20210801230000 -0400" stop="20210801233000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Alarma TV fin de semana</title>
-  </programme>
-  <programme start="20210801233000 -0400" stop="20210802000000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Estrella TV Deportes</title>
-  </programme>
-  <programme start="20210802063000 -0400" stop="20210802070000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Cantinflas Show</title>
-  </programme>
-  <programme start="20210802070000 -0400" stop="20210802090000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Noticias en la mañana</title>
-  </programme>
-  <programme start="20210802090000 -0400" stop="20210802093000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210802093000 -0400" stop="20210802100000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210802100000 -0400" stop="20210802120000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210802120000 -0400" stop="20210802130000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Tumbaburros</title>
-  </programme>
-  <programme start="20210802130000 -0400" stop="20210802150000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210802150000 -0400" stop="20210802160000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">100 latinos dijeron</title>
-  </programme>
-  <programme start="20210802160000 -0400" stop="20210802170000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">I Testigo</title>
-  </programme>
-  <programme start="20210802170000 -0400" stop="20210802173000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">LOL :-)</title>
-  </programme>
-  <programme start="20210802173000 -0400" stop="20210802180000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Noticiero Estrella TV</title>
-  </programme>
-  <programme start="20210802180000 -0400" stop="20210802190000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Chisme en vivo</title>
-  </programme>
-  <programme start="20210802190000 -0400" stop="20210802200000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">100 latinos dijeron</title>
-  </programme>
-  <programme start="20210802200000 -0400" stop="20210802220000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">La máscara del amor</title>
-  </programme>
-  <programme start="20210802220000 -0400" stop="20210802223000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Alarma TV</title>
-  </programme>
-  <programme start="20210802223000 -0400" stop="20210802230000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Noticiero: Cierre de edición</title>
-  </programme>
-  <programme start="20210802230000 -0400" stop="20210802233000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Enchufe tv</title>
-  </programme>
-  <programme start="20210802233000 -0400" stop="20210803000000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">LOL :-)</title>
-  </programme>
-  <programme start="20210803170000 -0400" stop="20210803173000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210803200000 -0400" stop="20210803210000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Tengo talento, mucho talento</title>
-  </programme>
-  <programme start="20210803210000 -0400" stop="20210803220000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">La máscara del amor</title>
-  </programme>
-  <programme start="20210803220000 -0400" stop="20210803223000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Alarma TV</title>
-  </programme>
-  <programme start="20210803223000 -0400" stop="20210803230000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Noticiero: Cierre de edición</title>
-  </programme>
-  <programme start="20210803230000 -0400" stop="20210803233000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20210803233000 -0400" stop="20210804000000 -0400" channel="Canal Estrella TV ">
-    <title lang="es">Alarma TV</title>
   </programme>
   <programme start="20210730011200 -0400" stop="20210730012400 -0400" channel="Canal Euronews">
     <title lang="es">Good Morning Europe</title>
@@ -3558,6 +4075,9 @@
   <programme start="20210731130000 -0400" stop="20210731133000 -0400" channel="Canal RT en Español">
     <title lang="es">RT Especial</title>
   </programme>
+  <programme start="20210731140000 -0400" stop="20210731143000 -0400" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
   <programme start="20210731143000 -0400" stop="20210731150000 -0400" channel="Canal RT en Español">
     <title lang="es">Keiser Report</title>
   </programme>
@@ -4017,6 +4537,9 @@
   <programme start="20210803120000 -0400" stop="20210803130000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Los mejores cuentos de hadas</title>
   </programme>
+  <programme start="20210803133000 -0400" stop="20210803143000 -0400" channel="Canal Señal Colombia">
+    <title lang="es">Caballo viejo</title>
+  </programme>
   <programme start="20210803143000 -0400" stop="20210803150000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Era rara</title>
   </programme>
@@ -4031,6 +4554,186 @@
   </programme>
   <programme start="20210803190000 -0400" stop="20210803200000 -0400" channel="Canal Señal Colombia">
     <title lang="es">Princesa valiente</title>
+  </programme>
+  <programme start="20210730015000 -0400" stop="20210730022000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210730022000 -0400" stop="20210730040000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210730040000 -0400" stop="20210730060000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Pasión de Gavilanes</title>
+  </programme>
+  <programme start="20210730060000 -0400" stop="20210730070000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210730070000 -0400" stop="20210730073000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210730073000 -0400" stop="20210730083000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210730083000 -0400" stop="20210730093000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210730093000 -0400" stop="20210730113000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Flor salvaje</title>
+  </programme>
+  <programme start="20210730113000 -0400" stop="20210730123000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210730123000 -0400" stop="20210730143000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">La Fan</title>
+  </programme>
+  <programme start="20210730143000 -0400" stop="20210730150000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210730150000 -0400" stop="20210730164000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210730164000 -0400" stop="20210730182000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Sin senos si hay paraíso</title>
+  </programme>
+  <programme start="20210730182000 -0400" stop="20210730200000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Flor salvaje</title>
+  </programme>
+  <programme start="20210730200000 -0400" stop="20210730214000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210730214000 -0400" stop="20210730223000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210730223000 -0400" stop="20210731001000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210731015000 -0400" stop="20210731022000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Noticiero Telemundo</title>
+  </programme>
+  <programme start="20210731022000 -0400" stop="20210731031000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Suelta la Sopa</title>
+  </programme>
+  <programme start="20210731031000 -0400" stop="20210731040000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20210731040000 -0400" stop="20210731070000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Pasión de Gavilanes</title>
+  </programme>
+  <programme start="20210731070000 -0400" stop="20210731100000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210731100000 -0400" stop="20210731140000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210731140000 -0400" stop="20210731150000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210731150000 -0400" stop="20210731160000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Historias de la vírgen morena</title>
+  </programme>
+  <programme start="20210731160000 -0400" stop="20210731170000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Historias de la vírgen morena</title>
+  </programme>
+  <programme start="20210731170000 -0400" stop="20210731184000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210731184000 -0400" stop="20210731193000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones extremas</title>
+  </programme>
+  <programme start="20210731193000 -0400" stop="20210731202000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210731202000 -0400" stop="20210731223000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210731223000 -0400" stop="20210801003000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210801003000 -0400" stop="20210801012000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones extremas</title>
+  </programme>
+  <programme start="20210802003000 -0400" stop="20210802012000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones extremas</title>
+  </programme>
+  <programme start="20210802012000 -0400" stop="20210802030000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210802030000 -0400" stop="20210802060000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210802060000 -0400" stop="20210802070000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Historias de la vírgen morena</title>
+  </programme>
+  <programme start="20210802070000 -0400" stop="20210802080000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210802080000 -0400" stop="20210802100000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210802150000 -0400" stop="20210802170000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Historias de la vírgen morena</title>
+  </programme>
+  <programme start="20210802170000 -0400" stop="20210802184000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones extremas</title>
+  </programme>
+  <programme start="20210802184000 -0400" stop="20210802202000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210803012000 -0400" stop="20210803015000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Noticiero Telemundo</title>
+  </programme>
+  <programme start="20210803015000 -0400" stop="20210803033000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210803033000 -0400" stop="20210803051000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210803051000 -0400" stop="20210803060000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones extremas</title>
+  </programme>
+  <programme start="20210803070000 -0400" stop="20210803073000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210803073000 -0400" stop="20210803083000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210803083000 -0400" stop="20210803093000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210803093000 -0400" stop="20210803113000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Flor salvaje</title>
+  </programme>
+  <programme start="20210803113000 -0400" stop="20210803123000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210803123000 -0400" stop="20210803143000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">La Fan</title>
+  </programme>
+  <programme start="20210803143000 -0400" stop="20210803150000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Decisiones</title>
+  </programme>
+  <programme start="20210803150000 -0400" stop="20210803164000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210803164000 -0400" stop="20210803182000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Sin senos si hay paraíso</title>
+  </programme>
+  <programme start="20210803182000 -0400" stop="20210803200000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Flor salvaje</title>
+  </programme>
+  <programme start="20210803200000 -0400" stop="20210803214000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210803214000 -0400" stop="20210803223000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210803223000 -0400" stop="20210804001000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210804001000 -0400" stop="20210804015000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">Sin senos si hay paraíso</title>
+  </programme>
+  <programme start="20210804123000 -0400" stop="20210804143000 -0400" channel="Canal Telemundo (México)">
+    <title lang="es">La Fan</title>
   </programme>
   <programme start="20210730010500 -0400" stop="20210730013000 -0400" channel="Canal teleSUR">
     <title lang="es">Notables</title>
@@ -4193,9 +4896,6 @@
   </programme>
   <programme start="20210731000500 -0400" stop="20210731010000 -0400" channel="Canal teleSUR">
     <title lang="es">Jugada crítica</title>
-  </programme>
-  <programme start="20210731033000 -0400" stop="20210731043000 -0400" channel="Canal teleSUR">
-    <title lang="es">Es noticia</title>
   </programme>
   <programme start="20210731070000 -0400" stop="20210731073000 -0400" channel="Canal teleSUR">
     <title lang="es">Latitud Brasil</title>
@@ -4782,6 +5482,9 @@
   <programme start="20210804080000 -0400" stop="20210804130000 -0400" channel="Canal TV Chile">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
+  <programme start="20210804130000 -0400" stop="20210804153000 -0400" channel="Canal TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
   <programme start="20210804224000 -0400" stop="20210804235000 -0400" channel="Canal TV Chile">
     <title lang="es">¿Cuál es tu huella</title>
   </programme>
@@ -5096,5 +5799,149 @@
   </programme>
   <programme start="20210731193000 -0400" stop="20210731202000 -0400" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
+  </programme>
+  <programme start="20210730013000 -0400" stop="20210730023000 -0400" channel="Canal Win Sports">
+    <title lang="es">El show de la liga</title>
+  </programme>
+  <programme start="20210730023000 -0400" stop="20210730043000 -0400" channel="Canal Win Sports">
+    <title lang="es">Saque largo</title>
+  </programme>
+  <programme start="20210730043000 -0400" stop="20210730050000 -0400" channel="Canal Win Sports">
+    <title lang="es">Goles de la fecha</title>
+  </programme>
+  <programme start="20210730050000 -0400" stop="20210730070000 -0400" channel="Canal Win Sports">
+    <title lang="es">Fútbol Copa Colombia</title>
+  </programme>
+  <programme start="20210730070000 -0400" stop="20210730073000 -0400" channel="Canal Win Sports">
+    <title lang="es">Campañas</title>
+  </programme>
+  <programme start="20210730073000 -0400" stop="20210730090000 -0400" channel="Canal Win Sports">
+    <title lang="es">Conexión Deportes</title>
+  </programme>
+  <programme start="20210730090000 -0400" stop="20210730120000 -0400" channel="Canal Win Sports">
+    <title lang="es">Primer toque</title>
+  </programme>
+  <programme start="20210730120000 -0400" stop="20210730130000 -0400" channel="Canal Win Sports">
+    <title lang="es">El show de la liga</title>
+  </programme>
+  <programme start="20210730130000 -0400" stop="20210730140000 -0400" channel="Canal Win Sports">
+    <title lang="es">Win Noticias</title>
+  </programme>
+  <programme start="20210730140000 -0400" stop="20210730150000 -0400" channel="Canal Win Sports">
+    <title lang="es">Camino a primera</title>
+  </programme>
+  <programme start="20210730150000 -0400" stop="20210730153000 -0400" channel="Canal Win Sports">
+    <title lang="es">Colombiano de Corazón</title>
+  </programme>
+  <programme start="20210730153000 -0400" stop="20210730163000 -0400" channel="Canal Win Sports">
+    <title lang="es">Ciclismo entre grandes</title>
+  </programme>
+  <programme start="20210730163000 -0400" stop="20210730183000 -0400" channel="Canal Win Sports">
+    <title lang="es">Voleibol femenino - Superliga femenina</title>
+  </programme>
+  <programme start="20210730183000 -0400" stop="20210730203000 -0400" channel="Canal Win Sports">
+    <title lang="es">Voleibol femenino - Superliga femenina</title>
+  </programme>
+  <programme start="20210730203000 -0400" stop="20210730210000 -0400" channel="Canal Win Sports">
+    <title lang="es">Previa Fútbol colombiano Primera A</title>
+  </programme>
+  <programme start="20210730210000 -0400" stop="20210730230000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deportes Quindío vs. Rionegro Águilas</title>
+  </programme>
+  <programme start="20210730230000 -0400" stop="20210731000000 -0400" channel="Canal Win Sports">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20210731000000 -0400" stop="20210731010000 -0400" channel="Canal Win Sports">
+    <title lang="es">Ciclismo entre grandes</title>
+  </programme>
+  <programme start="20210731010000 -0400" stop="20210731020000 -0400" channel="Canal Win Sports">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20210731020000 -0400" stop="20210731040000 -0400" channel="Canal Win Sports">
+    <title lang="es">Voleibol femenino - Superliga femenina</title>
+  </programme>
+  <programme start="20210731040000 -0400" stop="20210731060000 -0400" channel="Canal Win Sports">
+    <title lang="es">Voleibol femenino - Superliga femenina</title>
+  </programme>
+  <programme start="20210731060000 -0400" stop="20210731080000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210731080000 -0400" stop="20210731090000 -0400" channel="Canal Win Sports">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20210731120000 -0400" stop="20210731170000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210731170000 -0400" stop="20210731190000 -0400" channel="Canal Win Sports">
+    <title lang="es">Saque largo</title>
+  </programme>
+  <programme start="20210731190000 -0400" stop="20210731200000 -0400" channel="Canal Win Sports">
+    <title lang="es">Conexión Deportes</title>
+  </programme>
+  <programme start="20210731200000 -0400" stop="20210731203000 -0400" channel="Canal Win Sports">
+    <title lang="es">Rueda de Prensa</title>
+  </programme>
+  <programme start="20210731203000 -0400" stop="20210731223000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210731223000 -0400" stop="20210731230000 -0400" channel="Canal Win Sports">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20210731230000 -0400" stop="20210801000000 -0400" channel="Canal Win Sports">
+    <title lang="es">La polémica</title>
+  </programme>
+  <programme start="20210801000000 -0400" stop="20210801010000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210801010000 -0400" stop="20210801090000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210801120000 -0400" stop="20210801160000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210801160000 -0400" stop="20210801163000 -0400" channel="Canal Win Sports">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210801163000 -0400" stop="20210801190000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210801190000 -0400" stop="20210801200000 -0400" channel="Canal Win Sports">
+    <title lang="es">Conexión Deportes</title>
+  </programme>
+  <programme start="20210801200000 -0400" stop="20210801203000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210801203000 -0400" stop="20210801210000 -0400" channel="Canal Win Sports">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20210801210000 -0400" stop="20210801230000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210801230000 -0400" stop="20210802003000 -0400" channel="Canal Win Sports">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20210802003000 -0400" stop="20210802060000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210802060000 -0400" stop="20210802073000 -0400" channel="Canal Win Sports">
+    <title lang="es">Saque largo</title>
+  </programme>
+  <programme start="20210802073000 -0400" stop="20210802090000 -0400" channel="Canal Win Sports">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20210802120000 -0400" stop="20210802130000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210802140000 -0400" stop="20210802160000 -0400" channel="Canal Win Sports">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20210802160000 -0400" stop="20210802170000 -0400" channel="Canal Win Sports">
+    <title lang="es">Ciclismo entre grandes</title>
+  </programme>
+  <programme start="20210802170000 -0400" stop="20210802190000 -0400" channel="Canal Win Sports">
+    <title lang="es">Saque largo</title>
+  </programme>
+  <programme start="20210802190000 -0400" stop="20210802203000 -0400" channel="Canal Win Sports">
+    <title lang="es">Conexión Deportes</title>
   </programme>
 </tv>
