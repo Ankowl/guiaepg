@@ -5520,6 +5520,396 @@
   <programme start="20210731013000 -0400" stop="20210731020000 -0400" channel="Canal Magic Kids">
     <title lang="es">Zenki</title>
   </programme>
+  <programme start="20210802120000 -0400" stop="20210802123000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Spiderman</title>                                              
+  </programme>                                                                       
+  <programme start="20210802123000 -0400" stop="20210802130000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                               
+  </programme>                                                                       
+  <programme start="20210802130000 -0400" stop="20210802133000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball</title>                                   
+  </programme>                                                                       
+  <programme start="20210802133000 -0400" stop="20210802140000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210802140000 -0400" stop="20210802143000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detectiva Conan</title>                                     
+  </programme>    
+  <programme start="20210802143000 -0400" stop="20210802150000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Las Guerreras Mágicas</title>                          
+  </programme>                                                                       
+  <programme start="20210802150000 -0400" stop="20210802153000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme>    
+  <programme start="20210802153000 -0400" stop="20210802160000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Escaflowne</title>                          
+  </programme>                                                                       
+  <programme start="20210802160000 -0400" stop="20210802163000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Street Shark</title>                                     
+  </programme>  
+  <programme start="20210802163000 -0400" stop="20210802170000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Pokemon</title>                          
+  </programme>                                                                       
+  <programme start="20210802170000 -0400" stop="20210802173000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme>  
+  <programme start="20210802173000 -0400" stop="20210802180000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Tortugas Ninja</title>                          
+  </programme>                                                                       
+  <programme start="20210802180000 -0400" stop="20210802183000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Ranma 1/2</title>                                     
+  </programme>  
+  <programme start="20210802183000 -0400" stop="20210802190000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sakura Card Captor</title>                          
+  </programme>                                                                       
+  <programme start="20210802190000 -0400" stop="20210802193000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                     
+  </programme>  
+  <programme start="20210802193000 -0400" stop="20210802200000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z</title>                          
+  </programme>                                                                       
+  <programme start="20210802200000 -0400" stop="20210802203000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Alf</title>                                     
+  </programme>  
+  <programme start="20210802203000 -0400" stop="20210802210000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Mundo de Beakman</title>                          
+  </programme>                                                                       
+  <programme start="20210802210000 -0400" stop="20210802213000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme> 
+  <programme start="20210802213000 -0400" stop="20210802220000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210802220000 -0400" stop="20210802223000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Mikami</title>                                     
+  </programme> 
+  <programme start="20210802223000 -0400" stop="20210802230000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detective Conan</title>                          
+  </programme>                                                                       
+  <programme start="20210802230000 -0400" stop="20210802233000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme> 
+  <programme start="20210802233000 -0400" stop="20210803000000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Cuentos de la Cripta</title>                          
+  </programme>                                                                       
+  <programme start="20210803000000 -0400" stop="20210803003000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z (E)</title>                                     
+  </programme> 
+  <programme start="20210803003000 -0400" stop="20210803010000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Zenki</title>                          
+  </programme>
+  <programme start="20210803120000 -0400" stop="20210803123000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Spiderman</title>                                              
+  </programme>                                                                       
+  <programme start="20210803123000 -0400" stop="20210803130000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                               
+  </programme>                                                                       
+  <programme start="20210803130000 -0400" stop="20210803133000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball</title>                                   
+  </programme>                                                                       
+  <programme start="20210803133000 -0400" stop="20210803140000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210803140000 -0400" stop="20210803143000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detectiva Conan</title>                                     
+  </programme>    
+  <programme start="20210803143000 -0400" stop="20210803150000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Las Guerreras Mágicas</title>                          
+  </programme>                                                                       
+  <programme start="20210803150000 -0400" stop="20210803153000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme>    
+  <programme start="20210803153000 -0400" stop="20210803160000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Escaflowne</title>                          
+  </programme>                                                                       
+  <programme start="20210803160000 -0400" stop="20210803163000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Street Shark</title>                                     
+  </programme>  
+  <programme start="20210803163000 -0400" stop="20210803170000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Pokemon</title>                          
+  </programme>                                                                       
+  <programme start="20210803170000 -0400" stop="20210803173000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme>  
+  <programme start="20210803173000 -0400" stop="20210803180000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Tortugas Ninja</title>                          
+  </programme>                                                                       
+  <programme start="20210803180000 -0400" stop="20210803183000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Ranma 1/2</title>                                     
+  </programme>  
+  <programme start="20210803183000 -0400" stop="20210803190000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sakura Card Captor</title>                          
+  </programme>                                                                       
+  <programme start="20210803190000 -0400" stop="20210803193000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                     
+  </programme>  
+  <programme start="20210803193000 -0400" stop="20210803200000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z</title>                          
+  </programme>                                                                       
+  <programme start="20210803200000 -0400" stop="20210803203000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Alf</title>                                     
+  </programme>  
+  <programme start="20210803203000 -0400" stop="20210803210000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Mundo de Beakman</title>                          
+  </programme>                                                                       
+  <programme start="20210803210000 -0400" stop="20210803213000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme> 
+  <programme start="20210803213000 -0400" stop="20210803220000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210803220000 -0400" stop="20210803223000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Mikami</title>                                     
+  </programme> 
+  <programme start="20210803223000 -0400" stop="20210803230000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detective Conan</title>                          
+  </programme>                                                                       
+  <programme start="20210803230000 -0400" stop="20210803233000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme> 
+  <programme start="20210803233000 -0400" stop="20210804000000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Cuentos de la Cripta</title>                          
+  </programme>                                                                       
+  <programme start="20210804000000 -0400" stop="20210804003000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z (E)</title>                                     
+  </programme> 
+  <programme start="20210804003000 -0400" stop="20210804010000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Zenki</title>                          
+  </programme>
+  <programme start="20210804120000 -0400" stop="20210804123000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Spiderman</title>                                              
+  </programme>                                                                       
+  <programme start="20210804123000 -0400" stop="20210804130000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                               
+  </programme>                                                                       
+  <programme start="20210804130000 -0400" stop="20210804133000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball</title>                                   
+  </programme>                                                                       
+  <programme start="20210804133000 -0400" stop="20210804140000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210804140000 -0400" stop="20210804143000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detectiva Conan</title>                                     
+  </programme>    
+  <programme start="20210804143000 -0400" stop="20210804150000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Las Guerreras Mágicas</title>                          
+  </programme>                                                                       
+  <programme start="20210804150000 -0400" stop="20210804153000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme>    
+  <programme start="20210804153000 -0400" stop="20210804160000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Escaflowne</title>                          
+  </programme>                                                                       
+  <programme start="20210804160000 -0400" stop="20210804163000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Street Shark</title>                                     
+  </programme>  
+  <programme start="20210804163000 -0400" stop="20210804170000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Pokemon</title>                          
+  </programme>                                                                       
+  <programme start="20210804170000 -0400" stop="20210804173000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme>  
+  <programme start="20210804173000 -0400" stop="20210804180000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Tortugas Ninja</title>                          
+  </programme>                                                                       
+  <programme start="20210804180000 -0400" stop="20210804183000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Ranma 1/2</title>                                     
+  </programme>  
+  <programme start="20210804183000 -0400" stop="20210804190000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sakura Card Captor</title>                          
+  </programme>                                                                       
+  <programme start="20210804190000 -0400" stop="20210804193000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                     
+  </programme>  
+  <programme start="20210804193000 -0400" stop="20210804200000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z</title>                          
+  </programme>                                                                       
+  <programme start="20210804200000 -0400" stop="20210804203000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Alf</title>                                     
+  </programme>  
+  <programme start="20210804203000 -0400" stop="20210804210000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Mundo de Beakman</title>                          
+  </programme>                                                                       
+  <programme start="20210804210000 -0400" stop="20210804213000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme> 
+  <programme start="20210804213000 -0400" stop="20210804220000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210804220000 -0400" stop="20210804223000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Mikami</title>                                     
+  </programme> 
+  <programme start="20210804223000 -0400" stop="20210804230000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detective Conan</title>                          
+  </programme>                                                                       
+  <programme start="20210804230000 -0400" stop="20210804233000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme> 
+  <programme start="20210804233000 -0400" stop="20210805000000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Cuentos de la Cripta</title>                          
+  </programme>                                                                       
+  <programme start="20210805000000 -0400" stop="20210805003000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z (E)</title>                                     
+  </programme> 
+  <programme start="20210805003000 -0400" stop="20210805010000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Zenki</title>                          
+  </programme>
+  <programme start="20210805120000 -0400" stop="20210805123000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Spiderman</title>                                              
+  </programme>                                                                       
+  <programme start="20210805123000 -0400" stop="20210805130000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                               
+  </programme>                                                                       
+  <programme start="20210805130000 -0400" stop="20210805133000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball</title>                                   
+  </programme>                                                                       
+  <programme start="20210805133000 -0400" stop="20210805140000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210805140000 -0400" stop="20210805143000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detectiva Conan</title>                                     
+  </programme>    
+  <programme start="20210805143000 -0400" stop="20210805150000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Las Guerreras Mágicas</title>                          
+  </programme>                                                                       
+  <programme start="20210805150000 -0400" stop="20210805153000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme>    
+  <programme start="20210805153000 -0400" stop="20210805160000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Escaflowne</title>                          
+  </programme>                                                                       
+  <programme start="20210805160000 -0400" stop="20210805163000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Street Shark</title>                                     
+  </programme>  
+  <programme start="20210805163000 -0400" stop="20210805170000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Pokemon</title>                          
+  </programme>                                                                       
+  <programme start="20210805170000 -0400" stop="20210805173000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme>  
+  <programme start="20210805173000 -0400" stop="20210805180000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Tortugas Ninja</title>                          
+  </programme>                                                                       
+  <programme start="20210805180000 -0400" stop="20210805183000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Ranma 1/2</title>                                     
+  </programme>  
+  <programme start="20210805183000 -0400" stop="20210805190000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sakura Card Captor</title>                          
+  </programme>                                                                       
+  <programme start="20210805190000 -0400" stop="20210805193000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                     
+  </programme>  
+  <programme start="20210805193000 -0400" stop="20210805200000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z</title>                          
+  </programme>                                                                       
+  <programme start="20210805200000 -0400" stop="20210805203000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Alf</title>                                     
+  </programme>  
+  <programme start="20210805203000 -0400" stop="20210805210000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Mundo de Beakman</title>                          
+  </programme>                                                                       
+  <programme start="20210805210000 -0400" stop="20210805213000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme> 
+  <programme start="20210805213000 -0400" stop="20210805220000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210805220000 -0400" stop="20210805223000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Mikami</title>                                     
+  </programme> 
+  <programme start="20210805223000 -0400" stop="20210805230000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detective Conan</title>                          
+  </programme>                                                                       
+  <programme start="20210805230000 -0400" stop="20210805233000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme> 
+  <programme start="20210805233000 -0400" stop="20210806000000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Cuentos de la Cripta</title>                          
+  </programme>                                                                       
+  <programme start="20210806000000 -0400" stop="20210806003000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z (E)</title>                                     
+  </programme> 
+  <programme start="20210806003000 -0400" stop="20210806010000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Zenki</title>                          
+  </programme>
+  <programme start="20210806120000 -0400" stop="20210806123000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Spiderman</title>                                              
+  </programme>                                                                       
+  <programme start="20210806123000 -0400" stop="20210806130000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                               
+  </programme>                                                                       
+  <programme start="20210806130000 -0400" stop="20210806133000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball</title>                                   
+  </programme>                                                                       
+  <programme start="20210806133000 -0400" stop="20210806140000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210806140000 -0400" stop="20210806143000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detectiva Conan</title>                                     
+  </programme>    
+  <programme start="20210806143000 -0400" stop="20210806150000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Las Guerreras Mágicas</title>                          
+  </programme>                                                                       
+  <programme start="20210806150000 -0400" stop="20210806153000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme>    
+  <programme start="20210806153000 -0400" stop="20210806160000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Escaflowne</title>                          
+  </programme>                                                                       
+  <programme start="20210806160000 -0400" stop="20210806163000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Street Shark</title>                                     
+  </programme>  
+  <programme start="20210806163000 -0400" stop="20210806170000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Pokemon</title>                          
+  </programme>                                                                       
+  <programme start="20210806170000 -0400" stop="20210806173000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme>  
+  <programme start="20210806173000 -0400" stop="20210806180000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Tortugas Ninja</title>                          
+  </programme>                                                                       
+  <programme start="20210806180000 -0400" stop="20210806183000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Ranma 1/2</title>                                     
+  </programme>  
+  <programme start="20210806183000 -0400" stop="20210806190000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sakura Card Captor</title>                          
+  </programme>                                                                       
+  <programme start="20210806190000 -0400" stop="20210806193000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Chavo</title>                                     
+  </programme>  
+  <programme start="20210806193000 -0400" stop="20210806200000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z</title>                          
+  </programme>                                                                       
+  <programme start="20210806200000 -0400" stop="20210806203000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Alf</title>                                     
+  </programme>  
+  <programme start="20210806203000 -0400" stop="20210806210000 -0400" channel="Canal Magic Kids">
+    <title lang="es">El Mundo de Beakman</title>                          
+  </programme>                                                                       
+  <programme start="20210806210000 -0400" stop="20210806213000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Sailor Moon</title>                                     
+  </programme> 
+  <programme start="20210806213000 -0400" stop="20210806220000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Caballeros del Zodiaco</title>                          
+  </programme>                                                                       
+  <programme start="20210806220000 -0400" stop="20210806223000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Mikami</title>                                     
+  </programme> 
+  <programme start="20210806223000 -0400" stop="20210806230000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Detective Conan</title>                          
+  </programme>                                                                       
+  <programme start="20210806230000 -0400" stop="20210806233000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Slam Dunk</title>                                     
+  </programme> 
+  <programme start="20210806233000 -0400" stop="20210807000000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Cuentos de la Cripta</title>                          
+  </programme>                                                                       
+  <programme start="20210807000000 -0400" stop="20210807003000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Dragon Ball Z (E)</title>                                     
+  </programme> 
+  <programme start="20210807003000 -0400" stop="20210807010000 -0400" channel="Canal Magic Kids">
+    <title lang="es">Zenki</title>                          
+  </programme>
   <programme start="20210730003000 -0400" stop="20210730010000 -0400" channel="Canal RT en Español">
     <title lang="es">Detrás de la noticia</title>
   </programme>
